@@ -1,0 +1,1144 @@
+{
+  "status": "REUSED_PRIOR_PASS",
+  "unique_models": 112,
+  "principal_selections": 54,
+  "convergence_selections": 60,
+  "tolerance": {
+    "absolute": 1e-06,
+    "relative": 1e-06
+  },
+  "maximum_absolute_Cp_difference": 0.0,
+  "model_fitting_performed": false,
+  "details": [
+    {
+      "id": "r000",
+      "algorithm": "ANN",
+      "model": "models/principal/ANN/CCD43/model.keras",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r001",
+      "algorithm": "ANN",
+      "model": "models/principal/ANN/CCD75/model.keras",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r002",
+      "algorithm": "ANN",
+      "model": "models/principal/ANN/CCD59/model.keras",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r003",
+      "algorithm": "ANN",
+      "model": "models/principal/ANN/LHS126/model.keras",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r004",
+      "algorithm": "ANN",
+      "model": "models/principal/ANN/LHS158/model.keras",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r005",
+      "algorithm": "ANN",
+      "model": "models/principal/ANN/LHS142/model.keras",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r006",
+      "algorithm": "ANN",
+      "model": "models/principal/ANN/R_LHS43/model.keras",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r007",
+      "algorithm": "ANN",
+      "model": "models/principal/ANN/R_LHS75/model.keras",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r008",
+      "algorithm": "ANN",
+      "model": "models/principal/ANN/R_LHS59/model.keras",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r009",
+      "algorithm": "DT",
+      "model": "models/principal/DT/CCD43/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r010",
+      "algorithm": "DT",
+      "model": "models/principal/DT/CCD75/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r011",
+      "algorithm": "DT",
+      "model": "models/principal/DT/CCD59/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r012",
+      "algorithm": "DT",
+      "model": "models/principal/DT/LHS126/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r013",
+      "algorithm": "DT",
+      "model": "models/principal/DT/LHS158/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r014",
+      "algorithm": "DT",
+      "model": "models/principal/DT/LHS142/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r015",
+      "algorithm": "DT",
+      "model": "models/principal/DT/R_LHS43/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r016",
+      "algorithm": "DT",
+      "model": "models/principal/DT/R_LHS75/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r017",
+      "algorithm": "DT",
+      "model": "models/principal/DT/R_LHS59/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r018",
+      "algorithm": "GBoost",
+      "model": "models/principal/GBoost/CCD43/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r019",
+      "algorithm": "GBoost",
+      "model": "models/principal/GBoost/CCD75/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r020",
+      "algorithm": "GBoost",
+      "model": "models/principal/GBoost/CCD59/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r021",
+      "algorithm": "GBoost",
+      "model": "models/principal/GBoost/LHS126/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r022",
+      "algorithm": "GBoost",
+      "model": "models/principal/GBoost/LHS158/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r023",
+      "algorithm": "GBoost",
+      "model": "models/principal/GBoost/LHS142/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r024",
+      "algorithm": "GBoost",
+      "model": "models/principal/GBoost/R_LHS43/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r025",
+      "algorithm": "GBoost",
+      "model": "models/principal/GBoost/R_LHS75/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r026",
+      "algorithm": "GBoost",
+      "model": "models/principal/GBoost/R_LHS59/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r027",
+      "algorithm": "KNN",
+      "model": "models/principal/KNN/CCD43/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r028",
+      "algorithm": "KNN",
+      "model": "models/principal/KNN/CCD75/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r029",
+      "algorithm": "KNN",
+      "model": "models/principal/KNN/CCD59/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r030",
+      "algorithm": "KNN",
+      "model": "models/principal/KNN/LHS126/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r031",
+      "algorithm": "KNN",
+      "model": "models/principal/KNN/LHS158/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r032",
+      "algorithm": "KNN",
+      "model": "models/principal/KNN/LHS142/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r033",
+      "algorithm": "KNN",
+      "model": "models/principal/KNN/R_LHS43/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r034",
+      "algorithm": "KNN",
+      "model": "models/principal/KNN/R_LHS75/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r035",
+      "algorithm": "KNN",
+      "model": "models/principal/KNN/R_LHS59/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r036",
+      "algorithm": "RF",
+      "model": "models/principal/RF/CCD43/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r037",
+      "algorithm": "RF",
+      "model": "models/principal/RF/CCD75/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r038",
+      "algorithm": "RF",
+      "model": "models/principal/RF/CCD59/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r039",
+      "algorithm": "RF",
+      "model": "models/principal/RF/LHS126/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r040",
+      "algorithm": "RF",
+      "model": "models/principal/RF/LHS158/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r041",
+      "algorithm": "RF",
+      "model": "models/principal/RF/LHS142/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r042",
+      "algorithm": "RF",
+      "model": "models/principal/RF/R_LHS43/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r043",
+      "algorithm": "RF",
+      "model": "models/principal/RF/R_LHS75/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r044",
+      "algorithm": "RF",
+      "model": "models/principal/RF/R_LHS59/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r045",
+      "algorithm": "SVR",
+      "model": "models/principal/SVR/CCD43/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r046",
+      "algorithm": "SVR",
+      "model": "models/principal/SVR/CCD75/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r047",
+      "algorithm": "SVR",
+      "model": "models/principal/SVR/CCD59/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r048",
+      "algorithm": "SVR",
+      "model": "models/principal/SVR/LHS126/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r049",
+      "algorithm": "SVR",
+      "model": "models/principal/SVR/LHS158/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r050",
+      "algorithm": "SVR",
+      "model": "models/principal/SVR/LHS142/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r051",
+      "algorithm": "SVR",
+      "model": "models/principal/SVR/R_LHS43/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r052",
+      "algorithm": "SVR",
+      "model": "models/principal/SVR/R_LHS75/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r053",
+      "algorithm": "SVR",
+      "model": "models/principal/SVR/R_LHS59/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r054",
+      "algorithm": "ANN",
+      "model": "models/convergence/ANN/N013/seed_42/model.keras",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r055",
+      "algorithm": "ANN",
+      "model": "models/convergence/ANN/N013/seed_43/model.keras",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r056",
+      "algorithm": "ANN",
+      "model": "models/convergence/ANN/N013/seed_44/model.keras",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r057",
+      "algorithm": "SVR",
+      "model": "models/convergence/SVR/N013/seed_42/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r058",
+      "algorithm": "SVR",
+      "model": "models/convergence/SVR/N013/seed_42/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r059",
+      "algorithm": "SVR",
+      "model": "models/convergence/SVR/N013/seed_42/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r060",
+      "algorithm": "ANN",
+      "model": "models/convergence/ANN/N025/seed_42/model.keras",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r061",
+      "algorithm": "ANN",
+      "model": "models/convergence/ANN/N025/seed_43/model.keras",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r062",
+      "algorithm": "ANN",
+      "model": "models/convergence/ANN/N025/seed_44/model.keras",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r063",
+      "algorithm": "SVR",
+      "model": "models/convergence/SVR/N025/seed_42/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r064",
+      "algorithm": "SVR",
+      "model": "models/convergence/SVR/N025/seed_42/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r065",
+      "algorithm": "SVR",
+      "model": "models/convergence/SVR/N025/seed_42/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r066",
+      "algorithm": "ANN",
+      "model": "models/convergence/ANN/N038/seed_42/model.keras",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r067",
+      "algorithm": "ANN",
+      "model": "models/convergence/ANN/N038/seed_43/model.keras",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r068",
+      "algorithm": "ANN",
+      "model": "models/convergence/ANN/N038/seed_44/model.keras",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r069",
+      "algorithm": "SVR",
+      "model": "models/convergence/SVR/N038/seed_42/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r070",
+      "algorithm": "SVR",
+      "model": "models/convergence/SVR/N038/seed_42/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r071",
+      "algorithm": "SVR",
+      "model": "models/convergence/SVR/N038/seed_42/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r072",
+      "algorithm": "ANN",
+      "model": "models/convergence/ANN/N050/seed_42/model.keras",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r073",
+      "algorithm": "ANN",
+      "model": "models/convergence/ANN/N050/seed_43/model.keras",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r074",
+      "algorithm": "ANN",
+      "model": "models/convergence/ANN/N050/seed_44/model.keras",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r075",
+      "algorithm": "SVR",
+      "model": "models/convergence/SVR/N050/seed_42/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r076",
+      "algorithm": "SVR",
+      "model": "models/convergence/SVR/N050/seed_42/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r077",
+      "algorithm": "SVR",
+      "model": "models/convergence/SVR/N050/seed_42/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r078",
+      "algorithm": "ANN",
+      "model": "models/convergence/ANN/N063/seed_42/model.keras",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r079",
+      "algorithm": "ANN",
+      "model": "models/convergence/ANN/N063/seed_43/model.keras",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r080",
+      "algorithm": "ANN",
+      "model": "models/convergence/ANN/N063/seed_44/model.keras",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r081",
+      "algorithm": "SVR",
+      "model": "models/convergence/SVR/N063/seed_42/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r082",
+      "algorithm": "SVR",
+      "model": "models/convergence/SVR/N063/seed_42/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r083",
+      "algorithm": "SVR",
+      "model": "models/convergence/SVR/N063/seed_42/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r084",
+      "algorithm": "ANN",
+      "model": "models/convergence/ANN/N076/seed_42/model.keras",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r085",
+      "algorithm": "ANN",
+      "model": "models/convergence/ANN/N076/seed_43/model.keras",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r086",
+      "algorithm": "ANN",
+      "model": "models/convergence/ANN/N076/seed_44/model.keras",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r087",
+      "algorithm": "SVR",
+      "model": "models/convergence/SVR/N076/seed_42/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r088",
+      "algorithm": "SVR",
+      "model": "models/convergence/SVR/N076/seed_42/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r089",
+      "algorithm": "SVR",
+      "model": "models/convergence/SVR/N076/seed_42/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r090",
+      "algorithm": "ANN",
+      "model": "models/convergence/ANN/N088/seed_42/model.keras",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r091",
+      "algorithm": "ANN",
+      "model": "models/convergence/ANN/N088/seed_43/model.keras",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r092",
+      "algorithm": "ANN",
+      "model": "models/convergence/ANN/N088/seed_44/model.keras",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r093",
+      "algorithm": "SVR",
+      "model": "models/convergence/SVR/N088/seed_42/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r094",
+      "algorithm": "SVR",
+      "model": "models/convergence/SVR/N088/seed_42/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r095",
+      "algorithm": "SVR",
+      "model": "models/convergence/SVR/N088/seed_42/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r096",
+      "algorithm": "ANN",
+      "model": "models/convergence/ANN/N101/seed_42/model.keras",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r097",
+      "algorithm": "ANN",
+      "model": "models/convergence/ANN/N101/seed_43/model.keras",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r098",
+      "algorithm": "ANN",
+      "model": "models/convergence/ANN/N101/seed_44/model.keras",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r099",
+      "algorithm": "SVR",
+      "model": "models/convergence/SVR/N101/seed_42/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r100",
+      "algorithm": "SVR",
+      "model": "models/convergence/SVR/N101/seed_42/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r101",
+      "algorithm": "SVR",
+      "model": "models/convergence/SVR/N101/seed_42/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r102",
+      "algorithm": "ANN",
+      "model": "models/convergence/ANN/N113/seed_42/model.keras",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r103",
+      "algorithm": "ANN",
+      "model": "models/convergence/ANN/N113/seed_43/model.keras",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r104",
+      "algorithm": "ANN",
+      "model": "models/convergence/ANN/N113/seed_44/model.keras",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r105",
+      "algorithm": "SVR",
+      "model": "models/convergence/SVR/N113/seed_42/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r106",
+      "algorithm": "SVR",
+      "model": "models/convergence/SVR/N113/seed_42/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r107",
+      "algorithm": "SVR",
+      "model": "models/convergence/SVR/N113/seed_42/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r108",
+      "algorithm": "ANN",
+      "model": "models/convergence/ANN/N126/seed_43/model.keras",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r109",
+      "algorithm": "ANN",
+      "model": "models/convergence/ANN/N126/seed_44/model.keras",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r110",
+      "algorithm": "SVR",
+      "model": "models/principal/SVR/LHS126/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    },
+    {
+      "id": "r111",
+      "algorithm": "SVR",
+      "model": "models/principal/SVR/LHS126/model.joblib",
+      "hashes_match": true,
+      "scaler_training_ids_and_extrema_match": true,
+      "parameters_match": true,
+      "test_predictions_match": true,
+      "max_abs_Cp_difference": 0.0
+    }
+  ],
+  "custom_input_CSV_check": {
+    "status": "PASS",
+    "model_id": "r036",
+    "configurations": 2,
+    "outputs_per_configuration": 315,
+    "exact_reference_predictions": true
+  },
+  "evidence_scope": "Accepted source delivery; model hashes/parameters/scalers/test predictions verified there. Not rerun in this draft.",
+  "binaries_included": false,
+  "unique_binary_pairs_by_source_hashes": 92
+}

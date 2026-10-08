@@ -1,0 +1,259 @@
+{
+  "status": "PASS_ML",
+  "scope": "Experimental designs, processed CFD data, ML metrics and convergence",
+  "principal": 54,
+  "convergence": 60,
+  "unique_evaluations": 112,
+  "partitions": 224,
+  "correlations": 90,
+  "bootstrap_comparisons": 18,
+  "sampling_designs": 10,
+  "logical_model_fits": 112,
+  "unique_binary_pairs": 92,
+  "timing_records": 54,
+  "manifest_files_checked": 60,
+  "training_performed": false,
+  "model_inference": "NOT_RUN_BINARIES_ABSENT",
+  "figure_rendering": "NOT_CHECKED_BY_THIS_COMMAND",
+  "date": "2026-10-07",
+  "clean_environment_tested": true,
+  "clean_environment": {
+    "status": "PASS",
+    "date": "2026-10-07",
+    "python": "3.12.14",
+    "installation": "requirements.txt installed into a new temporary venv; system and user site-packages disabled",
+    "package_versions": {
+      "Markdown": "3.11",
+      "MarkupSafe": "3.0.4",
+      "Pygments": "2.21.0",
+      "Werkzeug": "3.1.9",
+      "absl-py": "2.5.0",
+      "astunparse": "1.6.3",
+      "certifi": "2026.7.22",
+      "charset-normalizer": "3.5.2",
+      "contourpy": "1.4.0",
+      "cycler": "0.12.1",
+      "flatbuffers": "25.12.19",
+      "fonttools": "4.66.1",
+      "gast": "0.7.0",
+      "google-pasta": "0.2.0",
+      "grpcio": "1.84.0",
+      "h5py": "3.16.0",
+      "idna": "3.20",
+      "joblib": "1.5.1",
+      "keras": "3.11.3",
+      "kiwisolver": "1.5.1",
+      "libclang": "18.1.1",
+      "markdown-it-py": "4.2.0",
+      "matplotlib": "3.10.6",
+      "mdurl": "0.1.2",
+      "ml_dtypes": "0.6.0",
+      "namex": "0.1.0",
+      "numpy": "2.2.6",
+      "opt_einsum": "3.4.0",
+      "optree": "0.20.0",
+      "packaging": "26.3",
+      "pillow": "12.3.0",
+      "pip": "25.0.1",
+      "protobuf": "7.36.2",
+      "pyparsing": "3.3.3",
+      "python-dateutil": "2.9.0.post0",
+      "requests": "2.34.2",
+      "rich": "15.0.0",
+      "scikit-learn": "1.7.1",
+      "scipy": "1.16.1",
+      "setuptools": "84.0.0",
+      "six": "1.17.0",
+      "tensorboard": "2.20.0",
+      "tensorboard-data-server": "0.7.2",
+      "tensorflow": "2.20.0",
+      "termcolor": "3.3.0",
+      "threadpoolctl": "3.6.0",
+      "typing_extensions": "4.16.0",
+      "urllib3": "2.8.0",
+      "wheel": "0.48.0",
+      "wrapt": "2.5.0"
+    },
+    "dependency_origins": "All third-party distributions and eight required imports came from the new venv",
+    "isolated_python": true,
+    "private_directories_blocked": true,
+    "working_directory": "Temporary unrelated directory",
+    "algorithm_imports": [
+      "ANN",
+      "SVR",
+      "KNN",
+      "DT",
+      "RF",
+      "GBoost"
+    ],
+    "constructor_cases": 113,
+    "constructors_by_algorithm": {
+      "ANN": 38,
+      "DT": 9,
+      "GBoost": 9,
+      "KNN": 9,
+      "RF": 10,
+      "SVR": 38
+    },
+    "plan_jobs": 112,
+    "table_export_files": 8,
+    "table_export_rows": {
+      "metrics": 224,
+      "case_R2": 1080,
+      "local_performance": 54,
+      "convergence": 200
+    },
+    "figure_export_count": 23,
+    "fit_calls": 0,
+    "training_performed": false,
+    "CFD_reproduction": "Outside scope: prior research",
+    "pip_check": "PASS"
+  },
+  "dependency_installation": {
+    "status": "PASS",
+    "source": "requirements.txt",
+    "new_temporary_venv": true,
+    "pip_check": "No broken requirements found.",
+    "old_environments_modified": false
+  },
+  "figure_verification": {
+    "status": "PASS_PIXEL_EXACT",
+    "generated_panels": 19,
+    "preserved_graphics": [
+      "F1_Geom_rep.png",
+      "F2_measure_points.png",
+      "F3_domain.png",
+      "F4_Disp.png"
+    ],
+    "pixel_identical_panels": [
+      "F5a_G_SVR_CCD.png",
+      "F5b_G_SVR_CCD2.png",
+      "F5c_G_SVR_CCD3.png",
+      "F5d_G_SVR_RLHS.png",
+      "F5e_G_SVR_RLHS2.png",
+      "F5f_G_SVR_RLHS3.png",
+      "F5g_G_SVR_LHS.png",
+      "F5h_G_SVR_LHS2.png",
+      "F5i_G_SVR_LHS3.png",
+      "F6a_ANN_LHS.png",
+      "F6b_ANN_LHS2.png",
+      "F6c_ANN_LHS3.png",
+      "F6d_SVR_LHS.png",
+      "F6e_SVR_LHS2.png",
+      "F6f_SVR_LHS3.png",
+      "F7a_ANN_R2.png",
+      "F8a_ANN_MSE.png",
+      "F7b_SVR_R2.png",
+      "F8b_SVR_MSE.png"
+    ],
+    "rendering_differences": [],
+    "training_performed": false,
+    "preserved_graphics_scope": "F1-F3 schematics and historical F4 projection; independent original generators not recovered"
+  },
+  "source_preservation": {
+    "ML_configuration_digest": "2b490506a292a77dcff98cac6c5f543d7d4f572a87fe6fffc7552bfeaab76f0b",
+    "ML_reference_digest": "097ca63c2c10eea5acb88d511558a08814ba096d54a3d2ba27d07ae6fd6e32c2",
+    "training_data_predictions_reference_figures": "SHA-256 unchanged from pre-check snapshot"
+  },
+  "prior_model_inference": {
+    "status": "REUSED_PRIOR_PASS",
+    "file": "results/model_verification.json",
+    "executed_in_this_check": false
+  },
+  "package_integrity": {
+    "status": "PASS",
+    "manifest": "results/SHA256SUMS.txt",
+    "files": 63,
+    "self_included": false
+  },
+  "remaining_limits": [
+    "Full refits were not executed.",
+    "Only Windows/Python 3.12.14 was tested.",
+    "Historical LHS seeds and full tuning histories are not recoverable.",
+    "F1-F4 original independent generators are unavailable.",
+    "Binary models are not included."
+  ],
+  "concurrent_changes": {
+    "files": [
+      "CITATION.cff",
+      "LICENSE",
+      "LICENSE-DATA.md"
+    ],
+    "absent_at_start": true,
+    "created_or_modified_by_this_task": false,
+    "rights_confirmation": "LICENSE_NOTICES_CONFIRMED_BY_USER",
+    "citation_metadata_verification": "CFF_1.2.0_SCHEMA_PASS_AND_MANUSCRIPT_FIELDS_CHECKED"
+  },
+  "license_notice": {
+    "source_code": "MIT",
+    "original_research_datasets_results_figures": "CC BY 4.0",
+    "excluded": [
+      "Third-party materials",
+      "Manuscript",
+      "Separately deposited trained model binaries"
+    ],
+    "confirmed_by": "User instruction, 2026-10-07",
+    "license_files_modified": false
+  },
+  "technical_closure": {
+    "date": "2026-10-07",
+    "status": "READY_FOR_PUBLICATION",
+    "citation": {
+      "status": "PASS",
+      "schema_version": "1.2.0",
+      "schema_url": "https://raw.githubusercontent.com/citation-file-format/citation-file-format/1.2.0/schema.json",
+      "schema_sha256": "0b8d22140da702d766df318dcff3a91af2f39521298dcf36d76315fd99cc169b",
+      "authors_in_order": [
+        "Misael Maldonado-Fajardo",
+        "Humberto Yáñez-Godoy",
+        "Jaime M. Horta-Rangel",
+        "L. Francisco Pérez-Moreno",
+        "Enrique Rico-García",
+        "Iván F. Arjona-Catzim"
+      ],
+      "full_title": "Sampling Strategies for Machine Learning-Based Wind Load Prediction of Circular Arch Roofs: A Comparative Study of Accuracy and Data Efficiency",
+      "year": 2026,
+      "type": "unpublished",
+      "status_field": "submitted",
+      "DOI_present": false,
+      "cff_modified": false,
+      "tools": {
+        "PyYAML": "6.0.3",
+        "jsonschema": "4.26.0",
+        "pathspec": "1.1.1"
+      }
+    },
+    "licenses": {
+      "files_present": [
+        "LICENSE",
+        "LICENSE-DATA.md"
+      ],
+      "notices_confirmed_by_user": true,
+      "files_modified": false
+    },
+    "clean_ML_validation": "REUSED_PASS; exact scientific hashes and unchanged executable ML code confirmed",
+    "gitignore": {
+      "status": "PASS",
+      "matcher": "GitIgnoreSpec (pathspec)",
+      "synthetic_exclusions_tested": 27,
+      "all_current_public_files_included": true,
+      "saved_prediction_NPZ_included": true
+    },
+    "private_operational_dependencies": "NONE_FOUND; clean test with original-directory access blocked reused",
+    "file_size_check": {
+      "largest_file": "results/predictions.npz",
+      "largest_bytes": 19966562,
+      "largest_MiB": 19.0416,
+      "above_25_MiB": [],
+      "above_50_MiB": [],
+      "above_100_MiB": [],
+      "github_source": "https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github"
+    },
+    "scientific_changes": false,
+    "new_training": false,
+    "new_tuning": false,
+    "CFD_reproduction_in_scope": false,
+    "remote_created": false,
+    "uploaded": false
+  }
+}

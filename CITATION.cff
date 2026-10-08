@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use the code or data in this repository, please cite the associated manuscript. See the README for separate code and data licenses."
+type: software
+title: "Code and data for wind-load prediction of circular arch roofs"
+authors:
+  - family-names: Maldonado-Fajardo
+    given-names: Misael
+preferred-citation:
+  type: unpublished
+  status: submitted
+  title: "Sampling Strategies for Machine Learning-Based Wind Load Prediction of Circular Arch Roofs: A Comparative Study of Accuracy and Data Efficiency"
+  authors:
+    - family-names: Maldonado-Fajardo
+      given-names: Misael
+    - family-names: Yáñez-Godoy
+      given-names: Humberto
+    - family-names: Horta-Rangel
+      given-names: "Jaime M."
+    - family-names: Pérez-Moreno
+      given-names: "L. Francisco"
+    - family-names: Rico-García
+      given-names: Enrique
+    - family-names: Arjona-Catzim
+      given-names: "Iván F."
+  year: 2026
+  notes: "Manuscript submitted to Machine Learning with Applications; not yet published."

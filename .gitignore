@@ -1,0 +1,58 @@
+# Local environments and credentials
+.venv/
+venv/
+env/
+.env
+.env.*
+
+# Caches, editor metadata and temporary files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+.cache/
+.vscode/
+.idea/
+tmp/
+temp/
+*.tmp
+*.temp
+*.bak
+*.log
+~$*
+.DS_Store
+Thumbs.db
+
+# New executions and generated exports
+new_runs/
+generated_figures/
+generated_tables/
+
+# Trained model binaries (scientific prediction NPZ files remain included)
+*.keras
+*.joblib
+*.pkl
+*.pickle
+*.h5
+*.hdf5
+*.onnx
+*.pt
+*.pth
+*.ckpt*
+*.weights.*
+
+# Private audit, manuscript and editorial material
+private/
+audit/
+backups/
+Original_research/
+manuscript/
+manuscript_work/
+reviewer_responses/
+correspondence/
+submission/
+01_Documentos_para_revision/
+BUILD_REPORT.md
+INVENTARIO_PUBLICACION.csv
+PLAN_PUBLICACION.md
