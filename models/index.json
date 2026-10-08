@@ -1489,7 +1489,7 @@
         "principal/DT/CCD43"
       ],
       "model": "models/principal/DT/CCD43/model.joblib",
-      "scalers": "models/principal/DT/CCD43/scalers.joblib",
+      "scalers": "models/principal/ANN/CCD43/scalers.joblib",
       "model_sha256": "29f3b8b02580fe222dec8702138d6b94cabab2496900f25205e39ffc27dc719f",
       "scalers_sha256": "1bda71ce9895952c066fd46d90e6bc6a6dfd98b36a4a99347f93d27f821d33ce",
       "model_bytes": 26913,
@@ -1589,7 +1589,7 @@
         "principal/DT/CCD43_2k"
       ],
       "model": "models/principal/DT/CCD75/model.joblib",
-      "scalers": "models/principal/DT/CCD75/scalers.joblib",
+      "scalers": "models/principal/ANN/CCD75/scalers.joblib",
       "model_sha256": "66b23e5dbc343324220f7e7cf0272039f697b8742cd3585fdebd36b81ffcf9b4",
       "scalers_sha256": "b1ce823389cc0494e198fe917995f01aa914f9d3e8e0588fa27eaa13fff0e1bb",
       "model_bytes": 78593,
@@ -1721,7 +1721,7 @@
         "principal/DT/CCD43_FFD"
       ],
       "model": "models/principal/DT/CCD59/model.joblib",
-      "scalers": "models/principal/DT/CCD59/scalers.joblib",
+      "scalers": "models/principal/ANN/CCD59/scalers.joblib",
       "model_sha256": "7fe93e2261375e3478f94fdfcbfe0ce6d36a9ac2430c0780a6d4e3473b70e64c",
       "scalers_sha256": "6d3f22e33742ac832d70722a5194aee3ee5f0eea28562230d58c2c9b6e8c0eaf",
       "model_bytes": 57921,
@@ -1837,7 +1837,7 @@
         "principal/DT/LHS126"
       ],
       "model": "models/principal/DT/LHS126/model.joblib",
-      "scalers": "models/principal/DT/LHS126/scalers.joblib",
+      "scalers": "models/principal/ANN/LHS126/scalers.joblib",
       "model_sha256": "799bb3100a5d8c4f6b51e23613d9130b05876e3f8de63c50f6775ca5535efd3a",
       "scalers_sha256": "4604b72c59f79330b75d6f6a3867ad562523505ea1aa98c2831a2bc730b75515",
       "model_bytes": 99265,
@@ -2020,7 +2020,7 @@
         "principal/DT/LHS126_2k"
       ],
       "model": "models/principal/DT/LHS158/model.joblib",
-      "scalers": "models/principal/DT/LHS158/scalers.joblib",
+      "scalers": "models/principal/ANN/LHS158/scalers.joblib",
       "model_sha256": "2d9534205ce997cbfab64e365932d3a6c74dc814e9e14eebe0db885618d9f105",
       "scalers_sha256": "cdb63b2f483a19dceacec4182651566744aff870b150c93f1ea161f55dc18269",
       "model_bytes": 212961,
@@ -2235,7 +2235,7 @@
         "principal/DT/LHS126_FFD"
       ],
       "model": "models/principal/DT/LHS142/model.joblib",
-      "scalers": "models/principal/DT/LHS142/scalers.joblib",
+      "scalers": "models/principal/ANN/LHS142/scalers.joblib",
       "model_sha256": "a39c17477fa79fc16eaf7c95e0faea85f777fdebdb59fbfbca360f19aca2ca84",
       "scalers_sha256": "b8121b012556adeeb173e0ec695e464c40b073fbe88baf9b50dbbbde79a557aa",
       "model_bytes": 150945,
@@ -2434,7 +2434,7 @@
         "principal/DT/LHS43"
       ],
       "model": "models/principal/DT/R_LHS43/model.joblib",
-      "scalers": "models/principal/DT/R_LHS43/scalers.joblib",
+      "scalers": "models/principal/ANN/R_LHS43/scalers.joblib",
       "model_sha256": "6214b134c5490bdfe96cfe1a08b2fc930e05a55096c02a2bc982c262ce2f192e",
       "scalers_sha256": "07eb57836b28a9d3b641698d9fe2afd64507dc725999e0f8c84cd80faf864981",
       "model_bytes": 73425,
@@ -2534,7 +2534,7 @@
         "principal/DT/LHS43_2k"
       ],
       "model": "models/principal/DT/R_LHS75/model.joblib",
-      "scalers": "models/principal/DT/R_LHS75/scalers.joblib",
+      "scalers": "models/principal/ANN/R_LHS75/scalers.joblib",
       "model_sha256": "cf3f59265cf16ae0a2caa631beee200b438926b705199ec8378b86f630982132",
       "scalers_sha256": "67afff8655bee15e1cb510b90c59b9852c36a69e51d6d9329dcfc16a06a6ec95",
       "model_bytes": 78593,
@@ -2666,7 +2666,7 @@
         "principal/DT/LHS43_FFD"
       ],
       "model": "models/principal/DT/R_LHS59/model.joblib",
-      "scalers": "models/principal/DT/R_LHS59/scalers.joblib",
+      "scalers": "models/principal/ANN/R_LHS59/scalers.joblib",
       "model_sha256": "15b22a0e00c0e6d5e0779536395f8773d066cebc5d1c35c4a82bf6ee73e55726",
       "scalers_sha256": "f93bdcd10794fccca6481b203bd2b591358dbf95b871fa11369221ba0649b544",
       "model_bytes": 47585,
@@ -2782,7 +2782,7 @@
         "principal/GBoost/CCD43"
       ],
       "model": "models/principal/GBoost/CCD43/model.joblib",
-      "scalers": "models/principal/GBoost/CCD43/scalers.joblib",
+      "scalers": "models/principal/ANN/CCD43/scalers.joblib",
       "model_sha256": "09abc0f2a88a9fd5f6265fa03ef6776533bd54560c0e43a57b2d4e6e80246b0e",
       "scalers_sha256": "1bda71ce9895952c066fd46d90e6bc6a6dfd98b36a4a99347f93d27f821d33ce",
       "model_bytes": 29927685,
@@ -2885,7 +2885,7 @@
         "principal/GBoost/CCD43_2k"
       ],
       "model": "models/principal/GBoost/CCD75/model.joblib",
-      "scalers": "models/principal/GBoost/CCD75/scalers.joblib",
+      "scalers": "models/principal/ANN/CCD75/scalers.joblib",
       "model_sha256": "6c962a969f47ac2dff26406956231ae941b279c947dfa2630f94d6be8030d945",
       "scalers_sha256": "b1ce823389cc0494e198fe917995f01aa914f9d3e8e0588fa27eaa13fff0e1bb",
       "model_bytes": 44588037,
@@ -3020,7 +3020,7 @@
         "principal/GBoost/CCD43_FFD"
       ],
       "model": "models/principal/GBoost/CCD59/model.joblib",
-      "scalers": "models/principal/GBoost/CCD59/scalers.joblib",
+      "scalers": "models/principal/ANN/CCD59/scalers.joblib",
       "model_sha256": "17bbcfda52a3f23dbd766fbaf423c53de90daf6390312a1bf6d1e40f0d0c2af8",
       "scalers_sha256": "6d3f22e33742ac832d70722a5194aee3ee5f0eea28562230d58c2c9b6e8c0eaf",
       "model_bytes": 44601573,
@@ -3139,7 +3139,7 @@
         "principal/GBoost/LHS126"
       ],
       "model": "models/principal/GBoost/LHS126/model.joblib",
-      "scalers": "models/principal/GBoost/LHS126/scalers.joblib",
+      "scalers": "models/principal/ANN/LHS126/scalers.joblib",
       "model_sha256": "8cdfcb0f84a3eb975e644c5013b7349f3ea20355e3e6a9d6c08e7b67e4184c5d",
       "scalers_sha256": "4604b72c59f79330b75d6f6a3867ad562523505ea1aa98c2831a2bc730b75515",
       "model_bytes": 136034615,
@@ -3325,7 +3325,7 @@
         "principal/GBoost/LHS126_2k"
       ],
       "model": "models/principal/GBoost/LHS158/model.joblib",
-      "scalers": "models/principal/GBoost/LHS158/scalers.joblib",
+      "scalers": "models/principal/ANN/LHS158/scalers.joblib",
       "model_sha256": "811dc26712f91a2f58af22a988e772297537e9d54c7c8189bde3fbd3b6091688",
       "scalers_sha256": "cdb63b2f483a19dceacec4182651566744aff870b150c93f1ea161f55dc18269",
       "model_bytes": 43685589,
@@ -3543,7 +3543,7 @@
         "principal/GBoost/LHS126_FFD"
       ],
       "model": "models/principal/GBoost/LHS142/model.joblib",
-      "scalers": "models/principal/GBoost/LHS142/scalers.joblib",
+      "scalers": "models/principal/ANN/LHS142/scalers.joblib",
       "model_sha256": "21efff443378c20872ae03541c6e6b09331c7f4db430acf19c758b98ccc5e159",
       "scalers_sha256": "b8121b012556adeeb173e0ec695e464c40b073fbe88baf9b50dbbbde79a557aa",
       "model_bytes": 148434071,
@@ -3745,7 +3745,7 @@
         "principal/GBoost/LHS43"
       ],
       "model": "models/principal/GBoost/R_LHS43/model.joblib",
-      "scalers": "models/principal/GBoost/R_LHS43/scalers.joblib",
+      "scalers": "models/principal/ANN/R_LHS43/scalers.joblib",
       "model_sha256": "9db1e6afb908eb3fabfd2a122803b1b9d634ca3f1da34659939c19eade0bcd9a",
       "scalers_sha256": "07eb57836b28a9d3b641698d9fe2afd64507dc725999e0f8c84cd80faf864981",
       "model_bytes": 35633829,
@@ -3848,7 +3848,7 @@
         "principal/GBoost/LHS43_2k"
       ],
       "model": "models/principal/GBoost/R_LHS75/model.joblib",
-      "scalers": "models/principal/GBoost/R_LHS75/scalers.joblib",
+      "scalers": "models/principal/ANN/R_LHS75/scalers.joblib",
       "model_sha256": "82e404901367ff8f88db1148044bbd71d944cc5e9582362aef4a6b31c99c798c",
       "scalers_sha256": "67afff8655bee15e1cb510b90c59b9852c36a69e51d6d9329dcfc16a06a6ec95",
       "model_bytes": 44096613,
@@ -3983,7 +3983,7 @@
         "principal/GBoost/LHS43_FFD"
       ],
       "model": "models/principal/GBoost/R_LHS59/model.joblib",
-      "scalers": "models/principal/GBoost/R_LHS59/scalers.joblib",
+      "scalers": "models/principal/ANN/R_LHS59/scalers.joblib",
       "model_sha256": "3532b6adf2e0473d5fbb566b3f217e3271fe5e3323a68482e124dcba86ba764f",
       "scalers_sha256": "f93bdcd10794fccca6481b203bd2b591358dbf95b871fa11369221ba0649b544",
       "model_bytes": 140883143,
@@ -4102,7 +4102,7 @@
         "principal/KNN/CCD43"
       ],
       "model": "models/principal/KNN/CCD43/model.joblib",
-      "scalers": "models/principal/KNN/CCD43/scalers.joblib",
+      "scalers": "models/principal/ANN/CCD43/scalers.joblib",
       "model_sha256": "76f0cadb9f68203ece9ff191add5c98a3881fd828c80198d2c0a7ac2587067a1",
       "scalers_sha256": "1bda71ce9895952c066fd46d90e6bc6a6dfd98b36a4a99347f93d27f821d33ce",
       "model_bytes": 113574,
@@ -4197,7 +4197,7 @@
         "principal/KNN/CCD43_2k"
       ],
       "model": "models/principal/KNN/CCD75/model.joblib",
-      "scalers": "models/principal/KNN/CCD75/scalers.joblib",
+      "scalers": "models/principal/ANN/CCD75/scalers.joblib",
       "model_sha256": "e26614c818dc6ea18a7b23756df11bb438344f75ef274d6031c6288aa77e4053",
       "scalers_sha256": "b1ce823389cc0494e198fe917995f01aa914f9d3e8e0588fa27eaa13fff0e1bb",
       "model_bytes": 197254,
@@ -4324,7 +4324,7 @@
         "principal/KNN/CCD43_FFD"
       ],
       "model": "models/principal/KNN/CCD59/model.joblib",
-      "scalers": "models/principal/KNN/CCD59/scalers.joblib",
+      "scalers": "models/principal/ANN/CCD59/scalers.joblib",
       "model_sha256": "d081ed8c7de21a798112f273fe959ab9931b5866cf8823c9e332d77bc44f7534",
       "scalers_sha256": "6d3f22e33742ac832d70722a5194aee3ee5f0eea28562230d58c2c9b6e8c0eaf",
       "model_bytes": 155302,
@@ -4435,7 +4435,7 @@
         "principal/KNN/LHS126"
       ],
       "model": "models/principal/KNN/LHS126/model.joblib",
-      "scalers": "models/principal/KNN/LHS126/scalers.joblib",
+      "scalers": "models/principal/ANN/LHS126/scalers.joblib",
       "model_sha256": "a64608a4a552819b3031ab67f72ed27386986fd3c7dcca712e9ef77e317fe7f8",
       "scalers_sha256": "4604b72c59f79330b75d6f6a3867ad562523505ea1aa98c2831a2bc730b75515",
       "model_bytes": 330694,
@@ -4613,7 +4613,7 @@
         "principal/KNN/LHS126_2k"
       ],
       "model": "models/principal/KNN/LHS158/model.joblib",
-      "scalers": "models/principal/KNN/LHS158/scalers.joblib",
+      "scalers": "models/principal/ANN/LHS158/scalers.joblib",
       "model_sha256": "c87a37c1dc3576ccfb16cc3d51b71369f58fe41df1543985a764beeecedbe7f7",
       "scalers_sha256": "cdb63b2f483a19dceacec4182651566744aff870b150c93f1ea161f55dc18269",
       "model_bytes": 414150,
@@ -4823,7 +4823,7 @@
         "principal/KNN/LHS126_FFD"
       ],
       "model": "models/principal/KNN/LHS142/model.joblib",
-      "scalers": "models/principal/KNN/LHS142/scalers.joblib",
+      "scalers": "models/principal/ANN/LHS142/scalers.joblib",
       "model_sha256": "709ddfb6d192148d0db2b416da8a9aec416c5ad69393260f584473d1e626fbfe",
       "scalers_sha256": "b8121b012556adeeb173e0ec695e464c40b073fbe88baf9b50dbbbde79a557aa",
       "model_bytes": 372422,
@@ -5017,7 +5017,7 @@
         "principal/KNN/LHS43"
       ],
       "model": "models/principal/KNN/R_LHS43/model.joblib",
-      "scalers": "models/principal/KNN/R_LHS43/scalers.joblib",
+      "scalers": "models/principal/ANN/R_LHS43/scalers.joblib",
       "model_sha256": "35b630daaf2c37dbde1136004e6dc7077418164e5f9b0513ace981f5b8d96a8f",
       "scalers_sha256": "07eb57836b28a9d3b641698d9fe2afd64507dc725999e0f8c84cd80faf864981",
       "model_bytes": 113574,
@@ -5112,7 +5112,7 @@
         "principal/KNN/LHS43_2k"
       ],
       "model": "models/principal/KNN/R_LHS75/model.joblib",
-      "scalers": "models/principal/KNN/R_LHS75/scalers.joblib",
+      "scalers": "models/principal/ANN/R_LHS75/scalers.joblib",
       "model_sha256": "1bd9c097777590fc78759040b855ff3b58eae37d50392a0b02183f652e4a5fef",
       "scalers_sha256": "67afff8655bee15e1cb510b90c59b9852c36a69e51d6d9329dcfc16a06a6ec95",
       "model_bytes": 197254,
@@ -5239,7 +5239,7 @@
         "principal/KNN/LHS43_FFD"
       ],
       "model": "models/principal/KNN/R_LHS59/model.joblib",
-      "scalers": "models/principal/KNN/R_LHS59/scalers.joblib",
+      "scalers": "models/principal/ANN/R_LHS59/scalers.joblib",
       "model_sha256": "78b3d97e95e942356c8c2b2ab38602ec7a5c11bc326d8cf0757cebc16974d692",
       "scalers_sha256": "f93bdcd10794fccca6481b203bd2b591358dbf95b871fa11369221ba0649b544",
       "model_bytes": 155302,
@@ -5350,7 +5350,7 @@
         "principal/RF/CCD43"
       ],
       "model": "models/principal/RF/CCD43/model.joblib",
-      "scalers": "models/principal/RF/CCD43/scalers.joblib",
+      "scalers": "models/principal/ANN/CCD43/scalers.joblib",
       "model_sha256": "aa4efb8d9f4bf4198d80997f383571d42301a94b25529aba24a2a6e6c37fc007",
       "scalers_sha256": "1bda71ce9895952c066fd46d90e6bc6a6dfd98b36a4a99347f93d27f821d33ce",
       "model_bytes": 56748913,
@@ -5457,7 +5457,7 @@
         "principal/RF/CCD43_2k"
       ],
       "model": "models/principal/RF/CCD75/model.joblib",
-      "scalers": "models/principal/RF/CCD75/scalers.joblib",
+      "scalers": "models/principal/ANN/CCD75/scalers.joblib",
       "model_sha256": "bf74a9b589286f970b46f6aa97d7dbcb16a999f5dfc712850ad3b173b93015b7",
       "scalers_sha256": "b1ce823389cc0494e198fe917995f01aa914f9d3e8e0588fa27eaa13fff0e1bb",
       "model_bytes": 24599137,
@@ -5596,7 +5596,7 @@
         "principal/RF/CCD43_FFD"
       ],
       "model": "models/principal/RF/CCD59/model.joblib",
-      "scalers": "models/principal/RF/CCD59/scalers.joblib",
+      "scalers": "models/principal/ANN/CCD59/scalers.joblib",
       "model_sha256": "c9be3394437a5b20fedc0bdcc54337336f311d35aec67513b2c7f0798f960cf9",
       "scalers_sha256": "6d3f22e33742ac832d70722a5194aee3ee5f0eea28562230d58c2c9b6e8c0eaf",
       "model_bytes": 77812449,
@@ -5719,7 +5719,7 @@
         "principal/RF/LHS126"
       ],
       "model": "models/principal/RF/LHS126/model.joblib",
-      "scalers": "models/principal/RF/LHS126/scalers.joblib",
+      "scalers": "models/principal/ANN/LHS126/scalers.joblib",
       "model_sha256": "5a800906151f1dadc362ccf159a5749c1bc8d6e3c72c629c0fb287a965a53960",
       "scalers_sha256": "4604b72c59f79330b75d6f6a3867ad562523505ea1aa98c2831a2bc730b75515",
       "model_bytes": 121893393,
@@ -5909,7 +5909,7 @@
         "principal/RF/LHS126_2k"
       ],
       "model": "models/principal/RF/LHS158/model.joblib",
-      "scalers": "models/principal/RF/LHS158/scalers.joblib",
+      "scalers": "models/principal/ANN/LHS158/scalers.joblib",
       "model_sha256": "b5f9a58d05ea603cbef8bc63c77665205352c4fbb47669e902fa21226e2b018d",
       "scalers_sha256": "cdb63b2f483a19dceacec4182651566744aff870b150c93f1ea161f55dc18269",
       "model_bytes": 51772481,
@@ -6131,7 +6131,7 @@
         "principal/RF/LHS126_FFD"
       ],
       "model": "models/principal/RF/LHS142/model.joblib",
-      "scalers": "models/principal/RF/LHS142/scalers.joblib",
+      "scalers": "models/principal/ANN/LHS142/scalers.joblib",
       "model_sha256": "b2ad5df45169c832525f8663d1203e1a2b5599a08743e562070e38eafe0d3dbf",
       "scalers_sha256": "b8121b012556adeeb173e0ec695e464c40b073fbe88baf9b50dbbbde79a557aa",
       "model_bytes": 93150817,
@@ -6337,7 +6337,7 @@
         "principal/RF/LHS43"
       ],
       "model": "models/principal/RF/R_LHS43/model.joblib",
-      "scalers": "models/principal/RF/R_LHS43/scalers.joblib",
+      "scalers": "models/principal/ANN/R_LHS43/scalers.joblib",
       "model_sha256": "67b7d134055a78fb7683d1711ad6e567a26f74449a2459eb378d040279ce7018",
       "scalers_sha256": "07eb57836b28a9d3b641698d9fe2afd64507dc725999e0f8c84cd80faf864981",
       "model_bytes": 14356161,
@@ -6444,7 +6444,7 @@
         "principal/RF/LHS43_2k"
       ],
       "model": "models/principal/RF/R_LHS75/model.joblib",
-      "scalers": "models/principal/RF/R_LHS75/scalers.joblib",
+      "scalers": "models/principal/ANN/R_LHS75/scalers.joblib",
       "model_sha256": "b65caeada556380d1cb5b819f2efcf41e9cbfefa60244930026d033bbc57f901",
       "scalers_sha256": "67afff8655bee15e1cb510b90c59b9852c36a69e51d6d9329dcfc16a06a6ec95",
       "model_bytes": 122540881,
@@ -6583,7 +6583,7 @@
         "principal/RF/LHS43_FFD"
       ],
       "model": "models/principal/RF/R_LHS59/model.joblib",
-      "scalers": "models/principal/RF/R_LHS59/scalers.joblib",
+      "scalers": "models/principal/ANN/R_LHS59/scalers.joblib",
       "model_sha256": "573d79b6705f2017ff85d0fddc238bc890307d47187c7cc4141110bff657b268",
       "scalers_sha256": "f93bdcd10794fccca6481b203bd2b591358dbf95b871fa11369221ba0649b544",
       "model_bytes": 19643025,
@@ -6706,7 +6706,7 @@
         "principal/SVR/CCD43"
       ],
       "model": "models/principal/SVR/CCD43/model.joblib",
-      "scalers": "models/principal/SVR/CCD43/scalers.joblib",
+      "scalers": "models/principal/ANN/CCD43/scalers.joblib",
       "model_sha256": "312e4c9c3924fb57dd5d63ded48460ad3898e3df1086b9a9e27704bd5b221e1a",
       "scalers_sha256": "1bda71ce9895952c066fd46d90e6bc6a6dfd98b36a4a99347f93d27f821d33ce",
       "model_bytes": 962727,
@@ -6807,7 +6807,7 @@
         "principal/SVR/CCD43_2k"
       ],
       "model": "models/principal/SVR/CCD75/model.joblib",
-      "scalers": "models/principal/SVR/CCD75/scalers.joblib",
+      "scalers": "models/principal/ANN/CCD75/scalers.joblib",
       "model_sha256": "52133fffcce452cbcf1710ed7745bd4af547311707f5ed585284f2186c93ea0b",
       "scalers_sha256": "b1ce823389cc0494e198fe917995f01aa914f9d3e8e0588fa27eaa13fff0e1bb",
       "model_bytes": 1457687,
@@ -6940,7 +6940,7 @@
         "principal/SVR/CCD43_FFD"
       ],
       "model": "models/principal/SVR/CCD59/model.joblib",
-      "scalers": "models/principal/SVR/CCD59/scalers.joblib",
+      "scalers": "models/principal/ANN/CCD59/scalers.joblib",
       "model_sha256": "50a2eb07928be41e1b66940138a9748278eb8bafcd6f5a1d96e3ac5f2f634d3e",
       "scalers_sha256": "6d3f22e33742ac832d70722a5194aee3ee5f0eea28562230d58c2c9b6e8c0eaf",
       "model_bytes": 1205295,
@@ -7058,7 +7058,7 @@
         "convergencia/SVR/CONV_H10/42"
       ],
       "model": "models/principal/SVR/LHS126/model.joblib",
-      "scalers": "models/principal/SVR/LHS126/scalers.joblib",
+      "scalers": "models/principal/ANN/LHS126/scalers.joblib",
       "model_sha256": "32ebf517d870b671144dcd47a1efc4147cd8962ccf853060e49ad233cd4a3be4",
       "scalers_sha256": "4604b72c59f79330b75d6f6a3867ad562523505ea1aa98c2831a2bc730b75515",
       "model_bytes": 1842296,
@@ -7242,7 +7242,7 @@
         "principal/SVR/LHS126_2k"
       ],
       "model": "models/principal/SVR/LHS158/model.joblib",
-      "scalers": "models/principal/SVR/LHS158/scalers.joblib",
+      "scalers": "models/principal/ANN/LHS158/scalers.joblib",
       "model_sha256": "44294510fd74fc70c96247614b6bd3627fa4158b805745dee78729b31c7cb770",
       "scalers_sha256": "cdb63b2f483a19dceacec4182651566744aff870b150c93f1ea161f55dc18269",
       "model_bytes": 2153168,
@@ -7458,7 +7458,7 @@
         "principal/SVR/LHS126_FFD"
       ],
       "model": "models/principal/SVR/LHS142/model.joblib",
-      "scalers": "models/principal/SVR/LHS142/scalers.joblib",
+      "scalers": "models/principal/ANN/LHS142/scalers.joblib",
       "model_sha256": "611e3dc007fa41dc92380ea5332d43eeffd2e588664a8563a6426da1f49ec689",
       "scalers_sha256": "b8121b012556adeeb173e0ec695e464c40b073fbe88baf9b50dbbbde79a557aa",
       "model_bytes": 1980368,
@@ -7658,7 +7658,7 @@
         "principal/SVR/LHS43"
       ],
       "model": "models/principal/SVR/R_LHS43/model.joblib",
-      "scalers": "models/principal/SVR/R_LHS43/scalers.joblib",
+      "scalers": "models/principal/ANN/R_LHS43/scalers.joblib",
       "model_sha256": "27272174e9973f80a5fc1220255db688a603fb429540e63d63f28622e25614e5",
       "scalers_sha256": "07eb57836b28a9d3b641698d9fe2afd64507dc725999e0f8c84cd80faf864981",
       "model_bytes": 918223,
@@ -7759,7 +7759,7 @@
         "principal/SVR/LHS43_2k"
       ],
       "model": "models/principal/SVR/R_LHS75/model.joblib",
-      "scalers": "models/principal/SVR/R_LHS75/scalers.joblib",
+      "scalers": "models/principal/ANN/R_LHS75/scalers.joblib",
       "model_sha256": "611842657b381407a7d4a5309e06aa555ada34622c834ddf8549e47717c97345",
       "scalers_sha256": "67afff8655bee15e1cb510b90c59b9852c36a69e51d6d9329dcfc16a06a6ec95",
       "model_bytes": 1375376,
@@ -7892,7 +7892,7 @@
         "principal/SVR/LHS43_FFD"
       ],
       "model": "models/principal/SVR/R_LHS59/model.joblib",
-      "scalers": "models/principal/SVR/R_LHS59/scalers.joblib",
+      "scalers": "models/principal/ANN/R_LHS59/scalers.joblib",
       "model_sha256": "23d01c384f1653afb5e1271239467e1e87981d7a718e3f6ccbde5ed52c11a773",
       "scalers_sha256": "f93bdcd10794fccca6481b203bd2b591358dbf95b871fa11369221ba0649b544",
       "model_bytes": 1216351,
@@ -8080,7 +8080,7 @@
         "convergencia/ANN/CONV_H01/43"
       ],
       "model": "models/convergence/ANN/N013/seed_43/model.keras",
-      "scalers": "models/convergence/ANN/N013/seed_43/scalers.joblib",
+      "scalers": "models/convergence/ANN/N013/seed_42/scalers.joblib",
       "model_sha256": "29ef1f65435aee44d61d2e4300efacb6a6611869ef81476a72f4bf31b86da01c",
       "scalers_sha256": "b42bff41141275bc8ef38195f0ff0a8f9932a488d7e03f4f8401dae13cc8f012",
       "model_bytes": 1190116,
@@ -8151,7 +8151,7 @@
         "convergencia/ANN/CONV_H01/44"
       ],
       "model": "models/convergence/ANN/N013/seed_44/model.keras",
-      "scalers": "models/convergence/ANN/N013/seed_44/scalers.joblib",
+      "scalers": "models/convergence/ANN/N013/seed_42/scalers.joblib",
       "model_sha256": "26b1842d03ee9cdfc8431f563747da4d1525f096972d501bac53dbbedd166c07",
       "scalers_sha256": "b42bff41141275bc8ef38195f0ff0a8f9932a488d7e03f4f8401dae13cc8f012",
       "model_bytes": 1190116,
@@ -8222,7 +8222,7 @@
         "convergencia/SVR/CONV_H01/42"
       ],
       "model": "models/convergence/SVR/N013/seed_42/model.joblib",
-      "scalers": "models/convergence/SVR/N013/seed_42/scalers.joblib",
+      "scalers": "models/convergence/ANN/N013/seed_42/scalers.joblib",
       "model_sha256": "028bdf411be94cd044e4256db5573fab309a3525e98112887c1f8083d8a6bb94",
       "scalers_sha256": "b42bff41141275bc8ef38195f0ff0a8f9932a488d7e03f4f8401dae13cc8f012",
       "model_bytes": 460807,
@@ -8293,7 +8293,7 @@
         "convergencia/SVR/CONV_H01/43"
       ],
       "model": "models/convergence/SVR/N013/seed_42/model.joblib",
-      "scalers": "models/convergence/SVR/N013/seed_42/scalers.joblib",
+      "scalers": "models/convergence/ANN/N013/seed_42/scalers.joblib",
       "model_sha256": "028bdf411be94cd044e4256db5573fab309a3525e98112887c1f8083d8a6bb94",
       "scalers_sha256": "b42bff41141275bc8ef38195f0ff0a8f9932a488d7e03f4f8401dae13cc8f012",
       "model_bytes": 460807,
@@ -8364,7 +8364,7 @@
         "convergencia/SVR/CONV_H01/44"
       ],
       "model": "models/convergence/SVR/N013/seed_42/model.joblib",
-      "scalers": "models/convergence/SVR/N013/seed_42/scalers.joblib",
+      "scalers": "models/convergence/ANN/N013/seed_42/scalers.joblib",
       "model_sha256": "028bdf411be94cd044e4256db5573fab309a3525e98112887c1f8083d8a6bb94",
       "scalers_sha256": "b42bff41141275bc8ef38195f0ff0a8f9932a488d7e03f4f8401dae13cc8f012",
       "model_bytes": 460807,
@@ -8518,7 +8518,7 @@
         "convergencia/ANN/CONV_H02/43"
       ],
       "model": "models/convergence/ANN/N025/seed_43/model.keras",
-      "scalers": "models/convergence/ANN/N025/seed_43/scalers.joblib",
+      "scalers": "models/convergence/ANN/N025/seed_42/scalers.joblib",
       "model_sha256": "86887b03064f286feab93bc9aa102581f1e2c5a198d5c9e5176a0899986821c9",
       "scalers_sha256": "9791a711162249cf73195b1e20fb6231cb058c5933e1fa71adb944fda29e4471",
       "model_bytes": 1190116,
@@ -8601,7 +8601,7 @@
         "convergencia/ANN/CONV_H02/44"
       ],
       "model": "models/convergence/ANN/N025/seed_44/model.keras",
-      "scalers": "models/convergence/ANN/N025/seed_44/scalers.joblib",
+      "scalers": "models/convergence/ANN/N025/seed_42/scalers.joblib",
       "model_sha256": "cd95a2b65e5cbf4c596fa2700f4db5dc7c452998312aacbacbc45be204281565",
       "scalers_sha256": "9791a711162249cf73195b1e20fb6231cb058c5933e1fa71adb944fda29e4471",
       "model_bytes": 1190116,
@@ -8684,7 +8684,7 @@
         "convergencia/SVR/CONV_H02/42"
       ],
       "model": "models/convergence/SVR/N025/seed_42/model.joblib",
-      "scalers": "models/convergence/SVR/N025/seed_42/scalers.joblib",
+      "scalers": "models/convergence/ANN/N025/seed_42/scalers.joblib",
       "model_sha256": "75bccce1cd9bd49555b4fe5684c127b2417d7c19b016dedf925d8f2d968182e6",
       "scalers_sha256": "9791a711162249cf73195b1e20fb6231cb058c5933e1fa71adb944fda29e4471",
       "model_bytes": 656175,
@@ -8767,7 +8767,7 @@
         "convergencia/SVR/CONV_H02/43"
       ],
       "model": "models/convergence/SVR/N025/seed_42/model.joblib",
-      "scalers": "models/convergence/SVR/N025/seed_42/scalers.joblib",
+      "scalers": "models/convergence/ANN/N025/seed_42/scalers.joblib",
       "model_sha256": "75bccce1cd9bd49555b4fe5684c127b2417d7c19b016dedf925d8f2d968182e6",
       "scalers_sha256": "9791a711162249cf73195b1e20fb6231cb058c5933e1fa71adb944fda29e4471",
       "model_bytes": 656175,
@@ -8850,7 +8850,7 @@
         "convergencia/SVR/CONV_H02/44"
       ],
       "model": "models/convergence/SVR/N025/seed_42/model.joblib",
-      "scalers": "models/convergence/SVR/N025/seed_42/scalers.joblib",
+      "scalers": "models/convergence/ANN/N025/seed_42/scalers.joblib",
       "model_sha256": "75bccce1cd9bd49555b4fe5684c127b2417d7c19b016dedf925d8f2d968182e6",
       "scalers_sha256": "9791a711162249cf73195b1e20fb6231cb058c5933e1fa71adb944fda29e4471",
       "model_bytes": 656175,
@@ -9029,7 +9029,7 @@
         "convergencia/ANN/CONV_H03/43"
       ],
       "model": "models/convergence/ANN/N038/seed_43/model.keras",
-      "scalers": "models/convergence/ANN/N038/seed_43/scalers.joblib",
+      "scalers": "models/convergence/ANN/N038/seed_42/scalers.joblib",
       "model_sha256": "85d926bacdf3776ba36d557f9c67b862cb99982c609e50bf54b91eaf2ab492f1",
       "scalers_sha256": "c1b1891ab3c559d70b5dc8b039c49f768c2f1850baaea18aae3164dad7030368",
       "model_bytes": 1190116,
@@ -9125,7 +9125,7 @@
         "convergencia/ANN/CONV_H03/44"
       ],
       "model": "models/convergence/ANN/N038/seed_44/model.keras",
-      "scalers": "models/convergence/ANN/N038/seed_44/scalers.joblib",
+      "scalers": "models/convergence/ANN/N038/seed_42/scalers.joblib",
       "model_sha256": "a49f2775aaff987cce5057d2a97103efe7dac46753acd688c5524547e8646d97",
       "scalers_sha256": "c1b1891ab3c559d70b5dc8b039c49f768c2f1850baaea18aae3164dad7030368",
       "model_bytes": 1190116,
@@ -9221,7 +9221,7 @@
         "convergencia/SVR/CONV_H03/42"
       ],
       "model": "models/convergence/SVR/N038/seed_42/model.joblib",
-      "scalers": "models/convergence/SVR/N038/seed_42/scalers.joblib",
+      "scalers": "models/convergence/ANN/N038/seed_42/scalers.joblib",
       "model_sha256": "f44b1e9144ef3e3c9533024ae18fb447d0e1f1427b8a16aae3eacd32393eaa0e",
       "scalers_sha256": "c1b1891ab3c559d70b5dc8b039c49f768c2f1850baaea18aae3164dad7030368",
       "model_bytes": 835647,
@@ -9317,7 +9317,7 @@
         "convergencia/SVR/CONV_H03/43"
       ],
       "model": "models/convergence/SVR/N038/seed_42/model.joblib",
-      "scalers": "models/convergence/SVR/N038/seed_42/scalers.joblib",
+      "scalers": "models/convergence/ANN/N038/seed_42/scalers.joblib",
       "model_sha256": "f44b1e9144ef3e3c9533024ae18fb447d0e1f1427b8a16aae3eacd32393eaa0e",
       "scalers_sha256": "c1b1891ab3c559d70b5dc8b039c49f768c2f1850baaea18aae3164dad7030368",
       "model_bytes": 835647,
@@ -9413,7 +9413,7 @@
         "convergencia/SVR/CONV_H03/44"
       ],
       "model": "models/convergence/SVR/N038/seed_42/model.joblib",
-      "scalers": "models/convergence/SVR/N038/seed_42/scalers.joblib",
+      "scalers": "models/convergence/ANN/N038/seed_42/scalers.joblib",
       "model_sha256": "f44b1e9144ef3e3c9533024ae18fb447d0e1f1427b8a16aae3eacd32393eaa0e",
       "scalers_sha256": "c1b1891ab3c559d70b5dc8b039c49f768c2f1850baaea18aae3164dad7030368",
       "model_bytes": 835647,
@@ -9617,7 +9617,7 @@
         "convergencia/ANN/CONV_H04/43"
       ],
       "model": "models/convergence/ANN/N050/seed_43/model.keras",
-      "scalers": "models/convergence/ANN/N050/seed_43/scalers.joblib",
+      "scalers": "models/convergence/ANN/N050/seed_42/scalers.joblib",
       "model_sha256": "a2fe068b0797c09bd38302947c285cebb340db8829c6dea78a915c6450aa8f35",
       "scalers_sha256": "7c7b2baf9ed3e8660b863990dc784133129818f9e855c77fdad8666ac822453b",
       "model_bytes": 1190116,
@@ -9725,7 +9725,7 @@
         "convergencia/ANN/CONV_H04/44"
       ],
       "model": "models/convergence/ANN/N050/seed_44/model.keras",
-      "scalers": "models/convergence/ANN/N050/seed_44/scalers.joblib",
+      "scalers": "models/convergence/ANN/N050/seed_42/scalers.joblib",
       "model_sha256": "b7067e074639589f2a971e78a6f5aa6bebba4550652c6063e324038f3796c04b",
       "scalers_sha256": "7c7b2baf9ed3e8660b863990dc784133129818f9e855c77fdad8666ac822453b",
       "model_bytes": 1190116,
@@ -9833,7 +9833,7 @@
         "convergencia/SVR/CONV_H04/42"
       ],
       "model": "models/convergence/SVR/N050/seed_42/model.joblib",
-      "scalers": "models/convergence/SVR/N050/seed_42/scalers.joblib",
+      "scalers": "models/convergence/ANN/N050/seed_42/scalers.joblib",
       "model_sha256": "2704c62b8833fac510857f3c8d02206d9e79c9bfd3333cf41d346b3f590b6eae",
       "scalers_sha256": "7c7b2baf9ed3e8660b863990dc784133129818f9e855c77fdad8666ac822453b",
       "model_bytes": 1007111,
@@ -9941,7 +9941,7 @@
         "convergencia/SVR/CONV_H04/43"
       ],
       "model": "models/convergence/SVR/N050/seed_42/model.joblib",
-      "scalers": "models/convergence/SVR/N050/seed_42/scalers.joblib",
+      "scalers": "models/convergence/ANN/N050/seed_42/scalers.joblib",
       "model_sha256": "2704c62b8833fac510857f3c8d02206d9e79c9bfd3333cf41d346b3f590b6eae",
       "scalers_sha256": "7c7b2baf9ed3e8660b863990dc784133129818f9e855c77fdad8666ac822453b",
       "model_bytes": 1007111,
@@ -10049,7 +10049,7 @@
         "convergencia/SVR/CONV_H04/44"
       ],
       "model": "models/convergence/SVR/N050/seed_42/model.joblib",
-      "scalers": "models/convergence/SVR/N050/seed_42/scalers.joblib",
+      "scalers": "models/convergence/ANN/N050/seed_42/scalers.joblib",
       "model_sha256": "2704c62b8833fac510857f3c8d02206d9e79c9bfd3333cf41d346b3f590b6eae",
       "scalers_sha256": "7c7b2baf9ed3e8660b863990dc784133129818f9e855c77fdad8666ac822453b",
       "model_bytes": 1007111,
@@ -10278,7 +10278,7 @@
         "convergencia/ANN/CONV_H05/43"
       ],
       "model": "models/convergence/ANN/N063/seed_43/model.keras",
-      "scalers": "models/convergence/ANN/N063/seed_43/scalers.joblib",
+      "scalers": "models/convergence/ANN/N063/seed_42/scalers.joblib",
       "model_sha256": "80684ccabffcc34da723d5788b260e0f3cd80ce34e71b49934159c993e9369f2",
       "scalers_sha256": "fc7d7b719f3f98a453be87376c16f2f9d83ad4b27623bc2b42993f7c7dffdf93",
       "model_bytes": 1190116,
@@ -10399,7 +10399,7 @@
         "convergencia/ANN/CONV_H05/44"
       ],
       "model": "models/convergence/ANN/N063/seed_44/model.keras",
-      "scalers": "models/convergence/ANN/N063/seed_44/scalers.joblib",
+      "scalers": "models/convergence/ANN/N063/seed_42/scalers.joblib",
       "model_sha256": "1d7a12218f6d3a40b4e7bd86829505248c8bd4631c80032165b231bd1e839022",
       "scalers_sha256": "fc7d7b719f3f98a453be87376c16f2f9d83ad4b27623bc2b42993f7c7dffdf93",
       "model_bytes": 1190116,
@@ -10520,7 +10520,7 @@
         "convergencia/SVR/CONV_H05/42"
       ],
       "model": "models/convergence/SVR/N063/seed_42/model.joblib",
-      "scalers": "models/convergence/SVR/N063/seed_42/scalers.joblib",
+      "scalers": "models/convergence/ANN/N063/seed_42/scalers.joblib",
       "model_sha256": "b60f328fcb13cc7fe39105bfee4c379a43203cd27a105d0186242ccce552bdac",
       "scalers_sha256": "fc7d7b719f3f98a453be87376c16f2f9d83ad4b27623bc2b42993f7c7dffdf93",
       "model_bytes": 1178263,
@@ -10641,7 +10641,7 @@
         "convergencia/SVR/CONV_H05/43"
       ],
       "model": "models/convergence/SVR/N063/seed_42/model.joblib",
-      "scalers": "models/convergence/SVR/N063/seed_42/scalers.joblib",
+      "scalers": "models/convergence/ANN/N063/seed_42/scalers.joblib",
       "model_sha256": "b60f328fcb13cc7fe39105bfee4c379a43203cd27a105d0186242ccce552bdac",
       "scalers_sha256": "fc7d7b719f3f98a453be87376c16f2f9d83ad4b27623bc2b42993f7c7dffdf93",
       "model_bytes": 1178263,
@@ -10762,7 +10762,7 @@
         "convergencia/SVR/CONV_H05/44"
       ],
       "model": "models/convergence/SVR/N063/seed_42/model.joblib",
-      "scalers": "models/convergence/SVR/N063/seed_42/scalers.joblib",
+      "scalers": "models/convergence/ANN/N063/seed_42/scalers.joblib",
       "model_sha256": "b60f328fcb13cc7fe39105bfee4c379a43203cd27a105d0186242ccce552bdac",
       "scalers_sha256": "fc7d7b719f3f98a453be87376c16f2f9d83ad4b27623bc2b42993f7c7dffdf93",
       "model_bytes": 1178263,
@@ -11017,7 +11017,7 @@
         "convergencia/ANN/CONV_H06/43"
       ],
       "model": "models/convergence/ANN/N076/seed_43/model.keras",
-      "scalers": "models/convergence/ANN/N076/seed_43/scalers.joblib",
+      "scalers": "models/convergence/ANN/N076/seed_42/scalers.joblib",
       "model_sha256": "21e6b956bae4cd14d68baf55afc7ce6b392f7101ab6fb7fc37db7276b43dc616",
       "scalers_sha256": "41da40fd9a94736adaa84b96cca6cfab1bc713d5a2b058a8a45e09babaeffc3a",
       "model_bytes": 1190116,
@@ -11151,7 +11151,7 @@
         "convergencia/ANN/CONV_H06/44"
       ],
       "model": "models/convergence/ANN/N076/seed_44/model.keras",
-      "scalers": "models/convergence/ANN/N076/seed_44/scalers.joblib",
+      "scalers": "models/convergence/ANN/N076/seed_42/scalers.joblib",
       "model_sha256": "27534bababaa26abe65635ba8e564609177217567b26cab88b31d1f9af265e42",
       "scalers_sha256": "41da40fd9a94736adaa84b96cca6cfab1bc713d5a2b058a8a45e09babaeffc3a",
       "model_bytes": 1190116,
@@ -11285,7 +11285,7 @@
         "convergencia/SVR/CONV_H06/42"
       ],
       "model": "models/convergence/SVR/N076/seed_42/model.joblib",
-      "scalers": "models/convergence/SVR/N076/seed_42/scalers.joblib",
+      "scalers": "models/convergence/ANN/N076/seed_42/scalers.joblib",
       "model_sha256": "a54b973d0b07379ea9f303f7a040ad5b02fde4dc1a55f92fc33e5d494054d253",
       "scalers_sha256": "41da40fd9a94736adaa84b96cca6cfab1bc713d5a2b058a8a45e09babaeffc3a",
       "model_bytes": 1312248,
@@ -11419,7 +11419,7 @@
         "convergencia/SVR/CONV_H06/43"
       ],
       "model": "models/convergence/SVR/N076/seed_42/model.joblib",
-      "scalers": "models/convergence/SVR/N076/seed_42/scalers.joblib",
+      "scalers": "models/convergence/ANN/N076/seed_42/scalers.joblib",
       "model_sha256": "a54b973d0b07379ea9f303f7a040ad5b02fde4dc1a55f92fc33e5d494054d253",
       "scalers_sha256": "41da40fd9a94736adaa84b96cca6cfab1bc713d5a2b058a8a45e09babaeffc3a",
       "model_bytes": 1312248,
@@ -11553,7 +11553,7 @@
         "convergencia/SVR/CONV_H06/44"
       ],
       "model": "models/convergence/SVR/N076/seed_42/model.joblib",
-      "scalers": "models/convergence/SVR/N076/seed_42/scalers.joblib",
+      "scalers": "models/convergence/ANN/N076/seed_42/scalers.joblib",
       "model_sha256": "a54b973d0b07379ea9f303f7a040ad5b02fde4dc1a55f92fc33e5d494054d253",
       "scalers_sha256": "41da40fd9a94736adaa84b96cca6cfab1bc713d5a2b058a8a45e09babaeffc3a",
       "model_bytes": 1312248,
@@ -11833,7 +11833,7 @@
         "convergencia/ANN/CONV_H07/43"
       ],
       "model": "models/convergence/ANN/N088/seed_43/model.keras",
-      "scalers": "models/convergence/ANN/N088/seed_43/scalers.joblib",
+      "scalers": "models/convergence/ANN/N088/seed_42/scalers.joblib",
       "model_sha256": "ff9d037bc938980db0766bf349ed822711ce38b48a79a2dc2928f07dea93b059",
       "scalers_sha256": "b63bcce39261eb83544fb9b14d5fbd8d46180690c722ef0fc225ed54ebf248ae",
       "model_bytes": 1190116,
@@ -11979,7 +11979,7 @@
         "convergencia/ANN/CONV_H07/44"
       ],
       "model": "models/convergence/ANN/N088/seed_44/model.keras",
-      "scalers": "models/convergence/ANN/N088/seed_44/scalers.joblib",
+      "scalers": "models/convergence/ANN/N088/seed_42/scalers.joblib",
       "model_sha256": "72db1862cf2d9850e1c2b5518048ed11d27091a4fa0b8197c4bdb0a71d4cc8a0",
       "scalers_sha256": "b63bcce39261eb83544fb9b14d5fbd8d46180690c722ef0fc225ed54ebf248ae",
       "model_bytes": 1190116,
@@ -12125,7 +12125,7 @@
         "convergencia/SVR/CONV_H07/42"
       ],
       "model": "models/convergence/SVR/N088/seed_42/model.joblib",
-      "scalers": "models/convergence/SVR/N088/seed_42/scalers.joblib",
+      "scalers": "models/convergence/ANN/N088/seed_42/scalers.joblib",
       "model_sha256": "1af7be2c5b8ea42a9d2ba31ba9ed8ef719bdcd836902c74f6881b64dbbcf4ea9",
       "scalers_sha256": "b63bcce39261eb83544fb9b14d5fbd8d46180690c722ef0fc225ed54ebf248ae",
       "model_bytes": 1451056,
@@ -12271,7 +12271,7 @@
         "convergencia/SVR/CONV_H07/43"
       ],
       "model": "models/convergence/SVR/N088/seed_42/model.joblib",
-      "scalers": "models/convergence/SVR/N088/seed_42/scalers.joblib",
+      "scalers": "models/convergence/ANN/N088/seed_42/scalers.joblib",
       "model_sha256": "1af7be2c5b8ea42a9d2ba31ba9ed8ef719bdcd836902c74f6881b64dbbcf4ea9",
       "scalers_sha256": "b63bcce39261eb83544fb9b14d5fbd8d46180690c722ef0fc225ed54ebf248ae",
       "model_bytes": 1451056,
@@ -12417,7 +12417,7 @@
         "convergencia/SVR/CONV_H07/44"
       ],
       "model": "models/convergence/SVR/N088/seed_42/model.joblib",
-      "scalers": "models/convergence/SVR/N088/seed_42/scalers.joblib",
+      "scalers": "models/convergence/ANN/N088/seed_42/scalers.joblib",
       "model_sha256": "1af7be2c5b8ea42a9d2ba31ba9ed8ef719bdcd836902c74f6881b64dbbcf4ea9",
       "scalers_sha256": "b63bcce39261eb83544fb9b14d5fbd8d46180690c722ef0fc225ed54ebf248ae",
       "model_bytes": 1451056,
@@ -12722,7 +12722,7 @@
         "convergencia/ANN/CONV_H08/43"
       ],
       "model": "models/convergence/ANN/N101/seed_43/model.keras",
-      "scalers": "models/convergence/ANN/N101/seed_43/scalers.joblib",
+      "scalers": "models/convergence/ANN/N101/seed_42/scalers.joblib",
       "model_sha256": "b33dd562bde1a2d16f95307aabb98a8024a524759ae2bdeaf24c80514cdffafe",
       "scalers_sha256": "a6dc45c5b67c70fd02a54e6673e5f14ff6ea078718e106b7e70778c7853161db",
       "model_bytes": 1190116,
@@ -12881,7 +12881,7 @@
         "convergencia/ANN/CONV_H08/44"
       ],
       "model": "models/convergence/ANN/N101/seed_44/model.keras",
-      "scalers": "models/convergence/ANN/N101/seed_44/scalers.joblib",
+      "scalers": "models/convergence/ANN/N101/seed_42/scalers.joblib",
       "model_sha256": "d738380face7386d2606c7f1acb34f4b548d131728ce85f58e1d2b1ee51c5630",
       "scalers_sha256": "a6dc45c5b67c70fd02a54e6673e5f14ff6ea078718e106b7e70778c7853161db",
       "model_bytes": 1190116,
@@ -13040,7 +13040,7 @@
         "convergencia/SVR/CONV_H08/42"
       ],
       "model": "models/convergence/SVR/N101/seed_42/model.joblib",
-      "scalers": "models/convergence/SVR/N101/seed_42/scalers.joblib",
+      "scalers": "models/convergence/ANN/N101/seed_42/scalers.joblib",
       "model_sha256": "31f92d5d7be9f7f7f828c70b491f60139c94f6cfdfaa45cfed4a10b6ef744e14",
       "scalers_sha256": "a6dc45c5b67c70fd02a54e6673e5f14ff6ea078718e106b7e70778c7853161db",
       "model_bytes": 1581120,
@@ -13199,7 +13199,7 @@
         "convergencia/SVR/CONV_H08/43"
       ],
       "model": "models/convergence/SVR/N101/seed_42/model.joblib",
-      "scalers": "models/convergence/SVR/N101/seed_42/scalers.joblib",
+      "scalers": "models/convergence/ANN/N101/seed_42/scalers.joblib",
       "model_sha256": "31f92d5d7be9f7f7f828c70b491f60139c94f6cfdfaa45cfed4a10b6ef744e14",
       "scalers_sha256": "a6dc45c5b67c70fd02a54e6673e5f14ff6ea078718e106b7e70778c7853161db",
       "model_bytes": 1581120,
@@ -13358,7 +13358,7 @@
         "convergencia/SVR/CONV_H08/44"
       ],
       "model": "models/convergence/SVR/N101/seed_42/model.joblib",
-      "scalers": "models/convergence/SVR/N101/seed_42/scalers.joblib",
+      "scalers": "models/convergence/ANN/N101/seed_42/scalers.joblib",
       "model_sha256": "31f92d5d7be9f7f7f828c70b491f60139c94f6cfdfaa45cfed4a10b6ef744e14",
       "scalers_sha256": "a6dc45c5b67c70fd02a54e6673e5f14ff6ea078718e106b7e70778c7853161db",
       "model_bytes": 1581120,
@@ -13688,7 +13688,7 @@
         "convergencia/ANN/CONV_H09/43"
       ],
       "model": "models/convergence/ANN/N113/seed_43/model.keras",
-      "scalers": "models/convergence/ANN/N113/seed_43/scalers.joblib",
+      "scalers": "models/convergence/ANN/N113/seed_42/scalers.joblib",
       "model_sha256": "a64e6dc379b488c9936adb53212ed67738918795bc952268ab5210b3d15e08ea",
       "scalers_sha256": "441aff0e104b131afe54dd5a81d257cff3ec4d3519a7de58afa6e376c4cbc72a",
       "model_bytes": 1190116,
@@ -13859,7 +13859,7 @@
         "convergencia/ANN/CONV_H09/44"
       ],
       "model": "models/convergence/ANN/N113/seed_44/model.keras",
-      "scalers": "models/convergence/ANN/N113/seed_44/scalers.joblib",
+      "scalers": "models/convergence/ANN/N113/seed_42/scalers.joblib",
       "model_sha256": "f99012f06a013583ff15ff9534ac76378596663bfd607b86a2d4cdf832ad30db",
       "scalers_sha256": "441aff0e104b131afe54dd5a81d257cff3ec4d3519a7de58afa6e376c4cbc72a",
       "model_bytes": 1190116,
@@ -14030,7 +14030,7 @@
         "convergencia/SVR/CONV_H09/42"
       ],
       "model": "models/convergence/SVR/N113/seed_42/model.joblib",
-      "scalers": "models/convergence/SVR/N113/seed_42/scalers.joblib",
+      "scalers": "models/convergence/ANN/N113/seed_42/scalers.joblib",
       "model_sha256": "238b1600506d014d7e081e2e4aa23e7d9a351fb76ab2810126575ed4a8a8f4fa",
       "scalers_sha256": "441aff0e104b131afe54dd5a81d257cff3ec4d3519a7de58afa6e376c4cbc72a",
       "model_bytes": 1712360,
@@ -14201,7 +14201,7 @@
         "convergencia/SVR/CONV_H09/43"
       ],
       "model": "models/convergence/SVR/N113/seed_42/model.joblib",
-      "scalers": "models/convergence/SVR/N113/seed_42/scalers.joblib",
+      "scalers": "models/convergence/ANN/N113/seed_42/scalers.joblib",
       "model_sha256": "238b1600506d014d7e081e2e4aa23e7d9a351fb76ab2810126575ed4a8a8f4fa",
       "scalers_sha256": "441aff0e104b131afe54dd5a81d257cff3ec4d3519a7de58afa6e376c4cbc72a",
       "model_bytes": 1712360,
@@ -14372,7 +14372,7 @@
         "convergencia/SVR/CONV_H09/44"
       ],
       "model": "models/convergence/SVR/N113/seed_42/model.joblib",
-      "scalers": "models/convergence/SVR/N113/seed_42/scalers.joblib",
+      "scalers": "models/convergence/ANN/N113/seed_42/scalers.joblib",
       "model_sha256": "238b1600506d014d7e081e2e4aa23e7d9a351fb76ab2810126575ed4a8a8f4fa",
       "scalers_sha256": "441aff0e104b131afe54dd5a81d257cff3ec4d3519a7de58afa6e376c4cbc72a",
       "model_bytes": 1712360,
@@ -14543,7 +14543,7 @@
         "convergencia/ANN/CONV_H10/43"
       ],
       "model": "models/convergence/ANN/N126/seed_43/model.keras",
-      "scalers": "models/convergence/ANN/N126/seed_43/scalers.joblib",
+      "scalers": "models/principal/ANN/LHS126/scalers.joblib",
       "model_sha256": "43575f575ca0bcb66302a15a3b9b6aa43219701725eec9ddb94a165416cf97b4",
       "scalers_sha256": "4604b72c59f79330b75d6f6a3867ad562523505ea1aa98c2831a2bc730b75515",
       "model_bytes": 1190116,
@@ -14727,7 +14727,7 @@
         "convergencia/ANN/CONV_H10/44"
       ],
       "model": "models/convergence/ANN/N126/seed_44/model.keras",
-      "scalers": "models/convergence/ANN/N126/seed_44/scalers.joblib",
+      "scalers": "models/principal/ANN/LHS126/scalers.joblib",
       "model_sha256": "5fdeda0aa45407e078a4b568d0733b8e2b064e6d988a398536d725dabb6fbc84",
       "scalers_sha256": "4604b72c59f79330b75d6f6a3867ad562523505ea1aa98c2831a2bc730b75515",
       "model_bytes": 1190116,
@@ -14911,7 +14911,7 @@
         "convergencia/SVR/CONV_H10/43"
       ],
       "model": "models/principal/SVR/LHS126/model.joblib",
-      "scalers": "models/principal/SVR/LHS126/scalers.joblib",
+      "scalers": "models/principal/ANN/LHS126/scalers.joblib",
       "model_sha256": "32ebf517d870b671144dcd47a1efc4147cd8962ccf853060e49ad233cd4a3be4",
       "scalers_sha256": "4604b72c59f79330b75d6f6a3867ad562523505ea1aa98c2831a2bc730b75515",
       "model_bytes": 1842296,
@@ -15095,7 +15095,7 @@
         "convergencia/SVR/CONV_H10/44"
       ],
       "model": "models/principal/SVR/LHS126/model.joblib",
-      "scalers": "models/principal/SVR/LHS126/scalers.joblib",
+      "scalers": "models/principal/ANN/LHS126/scalers.joblib",
       "model_sha256": "32ebf517d870b671144dcd47a1efc4147cd8962ccf853060e49ad233cd4a3be4",
       "scalers_sha256": "4604b72c59f79330b75d6f6a3867ad562523505ea1aa98c2831a2bc730b75515",
       "model_bytes": 1842296,
@@ -15685,7 +15685,7 @@
         "r009"
       ],
       "model": "models/principal/DT/CCD43/model.joblib",
-      "scalers": "models/principal/DT/CCD43/scalers.joblib",
+      "scalers": "models/principal/ANN/CCD43/scalers.joblib",
       "model_sha256": "29f3b8b02580fe222dec8702138d6b94cabab2496900f25205e39ffc27dc719f",
       "scalers_sha256": "1bda71ce9895952c066fd46d90e6bc6a6dfd98b36a4a99347f93d27f821d33ce"
     },
@@ -15694,7 +15694,7 @@
         "r010"
       ],
       "model": "models/principal/DT/CCD75/model.joblib",
-      "scalers": "models/principal/DT/CCD75/scalers.joblib",
+      "scalers": "models/principal/ANN/CCD75/scalers.joblib",
       "model_sha256": "66b23e5dbc343324220f7e7cf0272039f697b8742cd3585fdebd36b81ffcf9b4",
       "scalers_sha256": "b1ce823389cc0494e198fe917995f01aa914f9d3e8e0588fa27eaa13fff0e1bb"
     },
@@ -15703,7 +15703,7 @@
         "r011"
       ],
       "model": "models/principal/DT/CCD59/model.joblib",
-      "scalers": "models/principal/DT/CCD59/scalers.joblib",
+      "scalers": "models/principal/ANN/CCD59/scalers.joblib",
       "model_sha256": "7fe93e2261375e3478f94fdfcbfe0ce6d36a9ac2430c0780a6d4e3473b70e64c",
       "scalers_sha256": "6d3f22e33742ac832d70722a5194aee3ee5f0eea28562230d58c2c9b6e8c0eaf"
     },
@@ -15712,7 +15712,7 @@
         "r012"
       ],
       "model": "models/principal/DT/LHS126/model.joblib",
-      "scalers": "models/principal/DT/LHS126/scalers.joblib",
+      "scalers": "models/principal/ANN/LHS126/scalers.joblib",
       "model_sha256": "799bb3100a5d8c4f6b51e23613d9130b05876e3f8de63c50f6775ca5535efd3a",
       "scalers_sha256": "4604b72c59f79330b75d6f6a3867ad562523505ea1aa98c2831a2bc730b75515"
     },
@@ -15721,7 +15721,7 @@
         "r013"
       ],
       "model": "models/principal/DT/LHS158/model.joblib",
-      "scalers": "models/principal/DT/LHS158/scalers.joblib",
+      "scalers": "models/principal/ANN/LHS158/scalers.joblib",
       "model_sha256": "2d9534205ce997cbfab64e365932d3a6c74dc814e9e14eebe0db885618d9f105",
       "scalers_sha256": "cdb63b2f483a19dceacec4182651566744aff870b150c93f1ea161f55dc18269"
     },
@@ -15730,7 +15730,7 @@
         "r014"
       ],
       "model": "models/principal/DT/LHS142/model.joblib",
-      "scalers": "models/principal/DT/LHS142/scalers.joblib",
+      "scalers": "models/principal/ANN/LHS142/scalers.joblib",
       "model_sha256": "a39c17477fa79fc16eaf7c95e0faea85f777fdebdb59fbfbca360f19aca2ca84",
       "scalers_sha256": "b8121b012556adeeb173e0ec695e464c40b073fbe88baf9b50dbbbde79a557aa"
     },
@@ -15739,7 +15739,7 @@
         "r015"
       ],
       "model": "models/principal/DT/R_LHS43/model.joblib",
-      "scalers": "models/principal/DT/R_LHS43/scalers.joblib",
+      "scalers": "models/principal/ANN/R_LHS43/scalers.joblib",
       "model_sha256": "6214b134c5490bdfe96cfe1a08b2fc930e05a55096c02a2bc982c262ce2f192e",
       "scalers_sha256": "07eb57836b28a9d3b641698d9fe2afd64507dc725999e0f8c84cd80faf864981"
     },
@@ -15748,7 +15748,7 @@
         "r016"
       ],
       "model": "models/principal/DT/R_LHS75/model.joblib",
-      "scalers": "models/principal/DT/R_LHS75/scalers.joblib",
+      "scalers": "models/principal/ANN/R_LHS75/scalers.joblib",
       "model_sha256": "cf3f59265cf16ae0a2caa631beee200b438926b705199ec8378b86f630982132",
       "scalers_sha256": "67afff8655bee15e1cb510b90c59b9852c36a69e51d6d9329dcfc16a06a6ec95"
     },
@@ -15757,7 +15757,7 @@
         "r017"
       ],
       "model": "models/principal/DT/R_LHS59/model.joblib",
-      "scalers": "models/principal/DT/R_LHS59/scalers.joblib",
+      "scalers": "models/principal/ANN/R_LHS59/scalers.joblib",
       "model_sha256": "15b22a0e00c0e6d5e0779536395f8773d066cebc5d1c35c4a82bf6ee73e55726",
       "scalers_sha256": "f93bdcd10794fccca6481b203bd2b591358dbf95b871fa11369221ba0649b544"
     },
@@ -15766,7 +15766,7 @@
         "r018"
       ],
       "model": "models/principal/GBoost/CCD43/model.joblib",
-      "scalers": "models/principal/GBoost/CCD43/scalers.joblib",
+      "scalers": "models/principal/ANN/CCD43/scalers.joblib",
       "model_sha256": "09abc0f2a88a9fd5f6265fa03ef6776533bd54560c0e43a57b2d4e6e80246b0e",
       "scalers_sha256": "1bda71ce9895952c066fd46d90e6bc6a6dfd98b36a4a99347f93d27f821d33ce"
     },
@@ -15775,7 +15775,7 @@
         "r019"
       ],
       "model": "models/principal/GBoost/CCD75/model.joblib",
-      "scalers": "models/principal/GBoost/CCD75/scalers.joblib",
+      "scalers": "models/principal/ANN/CCD75/scalers.joblib",
       "model_sha256": "6c962a969f47ac2dff26406956231ae941b279c947dfa2630f94d6be8030d945",
       "scalers_sha256": "b1ce823389cc0494e198fe917995f01aa914f9d3e8e0588fa27eaa13fff0e1bb"
     },
@@ -15784,7 +15784,7 @@
         "r020"
       ],
       "model": "models/principal/GBoost/CCD59/model.joblib",
-      "scalers": "models/principal/GBoost/CCD59/scalers.joblib",
+      "scalers": "models/principal/ANN/CCD59/scalers.joblib",
       "model_sha256": "17bbcfda52a3f23dbd766fbaf423c53de90daf6390312a1bf6d1e40f0d0c2af8",
       "scalers_sha256": "6d3f22e33742ac832d70722a5194aee3ee5f0eea28562230d58c2c9b6e8c0eaf"
     },
@@ -15793,7 +15793,7 @@
         "r021"
       ],
       "model": "models/principal/GBoost/LHS126/model.joblib",
-      "scalers": "models/principal/GBoost/LHS126/scalers.joblib",
+      "scalers": "models/principal/ANN/LHS126/scalers.joblib",
       "model_sha256": "8cdfcb0f84a3eb975e644c5013b7349f3ea20355e3e6a9d6c08e7b67e4184c5d",
       "scalers_sha256": "4604b72c59f79330b75d6f6a3867ad562523505ea1aa98c2831a2bc730b75515"
     },
@@ -15802,7 +15802,7 @@
         "r022"
       ],
       "model": "models/principal/GBoost/LHS158/model.joblib",
-      "scalers": "models/principal/GBoost/LHS158/scalers.joblib",
+      "scalers": "models/principal/ANN/LHS158/scalers.joblib",
       "model_sha256": "811dc26712f91a2f58af22a988e772297537e9d54c7c8189bde3fbd3b6091688",
       "scalers_sha256": "cdb63b2f483a19dceacec4182651566744aff870b150c93f1ea161f55dc18269"
     },
@@ -15811,7 +15811,7 @@
         "r023"
       ],
       "model": "models/principal/GBoost/LHS142/model.joblib",
-      "scalers": "models/principal/GBoost/LHS142/scalers.joblib",
+      "scalers": "models/principal/ANN/LHS142/scalers.joblib",
       "model_sha256": "21efff443378c20872ae03541c6e6b09331c7f4db430acf19c758b98ccc5e159",
       "scalers_sha256": "b8121b012556adeeb173e0ec695e464c40b073fbe88baf9b50dbbbde79a557aa"
     },
@@ -15820,7 +15820,7 @@
         "r024"
       ],
       "model": "models/principal/GBoost/R_LHS43/model.joblib",
-      "scalers": "models/principal/GBoost/R_LHS43/scalers.joblib",
+      "scalers": "models/principal/ANN/R_LHS43/scalers.joblib",
       "model_sha256": "9db1e6afb908eb3fabfd2a122803b1b9d634ca3f1da34659939c19eade0bcd9a",
       "scalers_sha256": "07eb57836b28a9d3b641698d9fe2afd64507dc725999e0f8c84cd80faf864981"
     },
@@ -15829,7 +15829,7 @@
         "r025"
       ],
       "model": "models/principal/GBoost/R_LHS75/model.joblib",
-      "scalers": "models/principal/GBoost/R_LHS75/scalers.joblib",
+      "scalers": "models/principal/ANN/R_LHS75/scalers.joblib",
       "model_sha256": "82e404901367ff8f88db1148044bbd71d944cc5e9582362aef4a6b31c99c798c",
       "scalers_sha256": "67afff8655bee15e1cb510b90c59b9852c36a69e51d6d9329dcfc16a06a6ec95"
     },
@@ -15838,7 +15838,7 @@
         "r026"
       ],
       "model": "models/principal/GBoost/R_LHS59/model.joblib",
-      "scalers": "models/principal/GBoost/R_LHS59/scalers.joblib",
+      "scalers": "models/principal/ANN/R_LHS59/scalers.joblib",
       "model_sha256": "3532b6adf2e0473d5fbb566b3f217e3271fe5e3323a68482e124dcba86ba764f",
       "scalers_sha256": "f93bdcd10794fccca6481b203bd2b591358dbf95b871fa11369221ba0649b544"
     },
@@ -15847,7 +15847,7 @@
         "r027"
       ],
       "model": "models/principal/KNN/CCD43/model.joblib",
-      "scalers": "models/principal/KNN/CCD43/scalers.joblib",
+      "scalers": "models/principal/ANN/CCD43/scalers.joblib",
       "model_sha256": "76f0cadb9f68203ece9ff191add5c98a3881fd828c80198d2c0a7ac2587067a1",
       "scalers_sha256": "1bda71ce9895952c066fd46d90e6bc6a6dfd98b36a4a99347f93d27f821d33ce"
     },
@@ -15856,7 +15856,7 @@
         "r028"
       ],
       "model": "models/principal/KNN/CCD75/model.joblib",
-      "scalers": "models/principal/KNN/CCD75/scalers.joblib",
+      "scalers": "models/principal/ANN/CCD75/scalers.joblib",
       "model_sha256": "e26614c818dc6ea18a7b23756df11bb438344f75ef274d6031c6288aa77e4053",
       "scalers_sha256": "b1ce823389cc0494e198fe917995f01aa914f9d3e8e0588fa27eaa13fff0e1bb"
     },
@@ -15865,7 +15865,7 @@
         "r029"
       ],
       "model": "models/principal/KNN/CCD59/model.joblib",
-      "scalers": "models/principal/KNN/CCD59/scalers.joblib",
+      "scalers": "models/principal/ANN/CCD59/scalers.joblib",
       "model_sha256": "d081ed8c7de21a798112f273fe959ab9931b5866cf8823c9e332d77bc44f7534",
       "scalers_sha256": "6d3f22e33742ac832d70722a5194aee3ee5f0eea28562230d58c2c9b6e8c0eaf"
     },
@@ -15874,7 +15874,7 @@
         "r030"
       ],
       "model": "models/principal/KNN/LHS126/model.joblib",
-      "scalers": "models/principal/KNN/LHS126/scalers.joblib",
+      "scalers": "models/principal/ANN/LHS126/scalers.joblib",
       "model_sha256": "a64608a4a552819b3031ab67f72ed27386986fd3c7dcca712e9ef77e317fe7f8",
       "scalers_sha256": "4604b72c59f79330b75d6f6a3867ad562523505ea1aa98c2831a2bc730b75515"
     },
@@ -15883,7 +15883,7 @@
         "r031"
       ],
       "model": "models/principal/KNN/LHS158/model.joblib",
-      "scalers": "models/principal/KNN/LHS158/scalers.joblib",
+      "scalers": "models/principal/ANN/LHS158/scalers.joblib",
       "model_sha256": "c87a37c1dc3576ccfb16cc3d51b71369f58fe41df1543985a764beeecedbe7f7",
       "scalers_sha256": "cdb63b2f483a19dceacec4182651566744aff870b150c93f1ea161f55dc18269"
     },
@@ -15892,7 +15892,7 @@
         "r032"
       ],
       "model": "models/principal/KNN/LHS142/model.joblib",
-      "scalers": "models/principal/KNN/LHS142/scalers.joblib",
+      "scalers": "models/principal/ANN/LHS142/scalers.joblib",
       "model_sha256": "709ddfb6d192148d0db2b416da8a9aec416c5ad69393260f584473d1e626fbfe",
       "scalers_sha256": "b8121b012556adeeb173e0ec695e464c40b073fbe88baf9b50dbbbde79a557aa"
     },
@@ -15901,7 +15901,7 @@
         "r033"
       ],
       "model": "models/principal/KNN/R_LHS43/model.joblib",
-      "scalers": "models/principal/KNN/R_LHS43/scalers.joblib",
+      "scalers": "models/principal/ANN/R_LHS43/scalers.joblib",
       "model_sha256": "35b630daaf2c37dbde1136004e6dc7077418164e5f9b0513ace981f5b8d96a8f",
       "scalers_sha256": "07eb57836b28a9d3b641698d9fe2afd64507dc725999e0f8c84cd80faf864981"
     },
@@ -15910,7 +15910,7 @@
         "r034"
       ],
       "model": "models/principal/KNN/R_LHS75/model.joblib",
-      "scalers": "models/principal/KNN/R_LHS75/scalers.joblib",
+      "scalers": "models/principal/ANN/R_LHS75/scalers.joblib",
       "model_sha256": "1bd9c097777590fc78759040b855ff3b58eae37d50392a0b02183f652e4a5fef",
       "scalers_sha256": "67afff8655bee15e1cb510b90c59b9852c36a69e51d6d9329dcfc16a06a6ec95"
     },
@@ -15919,7 +15919,7 @@
         "r035"
       ],
       "model": "models/principal/KNN/R_LHS59/model.joblib",
-      "scalers": "models/principal/KNN/R_LHS59/scalers.joblib",
+      "scalers": "models/principal/ANN/R_LHS59/scalers.joblib",
       "model_sha256": "78b3d97e95e942356c8c2b2ab38602ec7a5c11bc326d8cf0757cebc16974d692",
       "scalers_sha256": "f93bdcd10794fccca6481b203bd2b591358dbf95b871fa11369221ba0649b544"
     },
@@ -15928,7 +15928,7 @@
         "r036"
       ],
       "model": "models/principal/RF/CCD43/model.joblib",
-      "scalers": "models/principal/RF/CCD43/scalers.joblib",
+      "scalers": "models/principal/ANN/CCD43/scalers.joblib",
       "model_sha256": "aa4efb8d9f4bf4198d80997f383571d42301a94b25529aba24a2a6e6c37fc007",
       "scalers_sha256": "1bda71ce9895952c066fd46d90e6bc6a6dfd98b36a4a99347f93d27f821d33ce"
     },
@@ -15937,7 +15937,7 @@
         "r037"
       ],
       "model": "models/principal/RF/CCD75/model.joblib",
-      "scalers": "models/principal/RF/CCD75/scalers.joblib",
+      "scalers": "models/principal/ANN/CCD75/scalers.joblib",
       "model_sha256": "bf74a9b589286f970b46f6aa97d7dbcb16a999f5dfc712850ad3b173b93015b7",
       "scalers_sha256": "b1ce823389cc0494e198fe917995f01aa914f9d3e8e0588fa27eaa13fff0e1bb"
     },
@@ -15946,7 +15946,7 @@
         "r038"
       ],
       "model": "models/principal/RF/CCD59/model.joblib",
-      "scalers": "models/principal/RF/CCD59/scalers.joblib",
+      "scalers": "models/principal/ANN/CCD59/scalers.joblib",
       "model_sha256": "c9be3394437a5b20fedc0bdcc54337336f311d35aec67513b2c7f0798f960cf9",
       "scalers_sha256": "6d3f22e33742ac832d70722a5194aee3ee5f0eea28562230d58c2c9b6e8c0eaf"
     },
@@ -15955,7 +15955,7 @@
         "r039"
       ],
       "model": "models/principal/RF/LHS126/model.joblib",
-      "scalers": "models/principal/RF/LHS126/scalers.joblib",
+      "scalers": "models/principal/ANN/LHS126/scalers.joblib",
       "model_sha256": "5a800906151f1dadc362ccf159a5749c1bc8d6e3c72c629c0fb287a965a53960",
       "scalers_sha256": "4604b72c59f79330b75d6f6a3867ad562523505ea1aa98c2831a2bc730b75515"
     },
@@ -15964,7 +15964,7 @@
         "r040"
       ],
       "model": "models/principal/RF/LHS158/model.joblib",
-      "scalers": "models/principal/RF/LHS158/scalers.joblib",
+      "scalers": "models/principal/ANN/LHS158/scalers.joblib",
       "model_sha256": "b5f9a58d05ea603cbef8bc63c77665205352c4fbb47669e902fa21226e2b018d",
       "scalers_sha256": "cdb63b2f483a19dceacec4182651566744aff870b150c93f1ea161f55dc18269"
     },
@@ -15973,7 +15973,7 @@
         "r041"
       ],
       "model": "models/principal/RF/LHS142/model.joblib",
-      "scalers": "models/principal/RF/LHS142/scalers.joblib",
+      "scalers": "models/principal/ANN/LHS142/scalers.joblib",
       "model_sha256": "b2ad5df45169c832525f8663d1203e1a2b5599a08743e562070e38eafe0d3dbf",
       "scalers_sha256": "b8121b012556adeeb173e0ec695e464c40b073fbe88baf9b50dbbbde79a557aa"
     },
@@ -15982,7 +15982,7 @@
         "r042"
       ],
       "model": "models/principal/RF/R_LHS43/model.joblib",
-      "scalers": "models/principal/RF/R_LHS43/scalers.joblib",
+      "scalers": "models/principal/ANN/R_LHS43/scalers.joblib",
       "model_sha256": "67b7d134055a78fb7683d1711ad6e567a26f74449a2459eb378d040279ce7018",
       "scalers_sha256": "07eb57836b28a9d3b641698d9fe2afd64507dc725999e0f8c84cd80faf864981"
     },
@@ -15991,7 +15991,7 @@
         "r043"
       ],
       "model": "models/principal/RF/R_LHS75/model.joblib",
-      "scalers": "models/principal/RF/R_LHS75/scalers.joblib",
+      "scalers": "models/principal/ANN/R_LHS75/scalers.joblib",
       "model_sha256": "b65caeada556380d1cb5b819f2efcf41e9cbfefa60244930026d033bbc57f901",
       "scalers_sha256": "67afff8655bee15e1cb510b90c59b9852c36a69e51d6d9329dcfc16a06a6ec95"
     },
@@ -16000,7 +16000,7 @@
         "r044"
       ],
       "model": "models/principal/RF/R_LHS59/model.joblib",
-      "scalers": "models/principal/RF/R_LHS59/scalers.joblib",
+      "scalers": "models/principal/ANN/R_LHS59/scalers.joblib",
       "model_sha256": "573d79b6705f2017ff85d0fddc238bc890307d47187c7cc4141110bff657b268",
       "scalers_sha256": "f93bdcd10794fccca6481b203bd2b591358dbf95b871fa11369221ba0649b544"
     },
@@ -16009,7 +16009,7 @@
         "r045"
       ],
       "model": "models/principal/SVR/CCD43/model.joblib",
-      "scalers": "models/principal/SVR/CCD43/scalers.joblib",
+      "scalers": "models/principal/ANN/CCD43/scalers.joblib",
       "model_sha256": "312e4c9c3924fb57dd5d63ded48460ad3898e3df1086b9a9e27704bd5b221e1a",
       "scalers_sha256": "1bda71ce9895952c066fd46d90e6bc6a6dfd98b36a4a99347f93d27f821d33ce"
     },
@@ -16018,7 +16018,7 @@
         "r046"
       ],
       "model": "models/principal/SVR/CCD75/model.joblib",
-      "scalers": "models/principal/SVR/CCD75/scalers.joblib",
+      "scalers": "models/principal/ANN/CCD75/scalers.joblib",
       "model_sha256": "52133fffcce452cbcf1710ed7745bd4af547311707f5ed585284f2186c93ea0b",
       "scalers_sha256": "b1ce823389cc0494e198fe917995f01aa914f9d3e8e0588fa27eaa13fff0e1bb"
     },
@@ -16027,7 +16027,7 @@
         "r047"
       ],
       "model": "models/principal/SVR/CCD59/model.joblib",
-      "scalers": "models/principal/SVR/CCD59/scalers.joblib",
+      "scalers": "models/principal/ANN/CCD59/scalers.joblib",
       "model_sha256": "50a2eb07928be41e1b66940138a9748278eb8bafcd6f5a1d96e3ac5f2f634d3e",
       "scalers_sha256": "6d3f22e33742ac832d70722a5194aee3ee5f0eea28562230d58c2c9b6e8c0eaf"
     },
@@ -16038,7 +16038,7 @@
         "r111"
       ],
       "model": "models/principal/SVR/LHS126/model.joblib",
-      "scalers": "models/principal/SVR/LHS126/scalers.joblib",
+      "scalers": "models/principal/ANN/LHS126/scalers.joblib",
       "model_sha256": "32ebf517d870b671144dcd47a1efc4147cd8962ccf853060e49ad233cd4a3be4",
       "scalers_sha256": "4604b72c59f79330b75d6f6a3867ad562523505ea1aa98c2831a2bc730b75515"
     },
@@ -16047,7 +16047,7 @@
         "r049"
       ],
       "model": "models/principal/SVR/LHS158/model.joblib",
-      "scalers": "models/principal/SVR/LHS158/scalers.joblib",
+      "scalers": "models/principal/ANN/LHS158/scalers.joblib",
       "model_sha256": "44294510fd74fc70c96247614b6bd3627fa4158b805745dee78729b31c7cb770",
       "scalers_sha256": "cdb63b2f483a19dceacec4182651566744aff870b150c93f1ea161f55dc18269"
     },
@@ -16056,7 +16056,7 @@
         "r050"
       ],
       "model": "models/principal/SVR/LHS142/model.joblib",
-      "scalers": "models/principal/SVR/LHS142/scalers.joblib",
+      "scalers": "models/principal/ANN/LHS142/scalers.joblib",
       "model_sha256": "611e3dc007fa41dc92380ea5332d43eeffd2e588664a8563a6426da1f49ec689",
       "scalers_sha256": "b8121b012556adeeb173e0ec695e464c40b073fbe88baf9b50dbbbde79a557aa"
     },
@@ -16065,7 +16065,7 @@
         "r051"
       ],
       "model": "models/principal/SVR/R_LHS43/model.joblib",
-      "scalers": "models/principal/SVR/R_LHS43/scalers.joblib",
+      "scalers": "models/principal/ANN/R_LHS43/scalers.joblib",
       "model_sha256": "27272174e9973f80a5fc1220255db688a603fb429540e63d63f28622e25614e5",
       "scalers_sha256": "07eb57836b28a9d3b641698d9fe2afd64507dc725999e0f8c84cd80faf864981"
     },
@@ -16074,7 +16074,7 @@
         "r052"
       ],
       "model": "models/principal/SVR/R_LHS75/model.joblib",
-      "scalers": "models/principal/SVR/R_LHS75/scalers.joblib",
+      "scalers": "models/principal/ANN/R_LHS75/scalers.joblib",
       "model_sha256": "611842657b381407a7d4a5309e06aa555ada34622c834ddf8549e47717c97345",
       "scalers_sha256": "67afff8655bee15e1cb510b90c59b9852c36a69e51d6d9329dcfc16a06a6ec95"
     },
@@ -16083,7 +16083,7 @@
         "r053"
       ],
       "model": "models/principal/SVR/R_LHS59/model.joblib",
-      "scalers": "models/principal/SVR/R_LHS59/scalers.joblib",
+      "scalers": "models/principal/ANN/R_LHS59/scalers.joblib",
       "model_sha256": "23d01c384f1653afb5e1271239467e1e87981d7a718e3f6ccbde5ed52c11a773",
       "scalers_sha256": "f93bdcd10794fccca6481b203bd2b591358dbf95b871fa11369221ba0649b544"
     },
@@ -16101,7 +16101,7 @@
         "r055"
       ],
       "model": "models/convergence/ANN/N013/seed_43/model.keras",
-      "scalers": "models/convergence/ANN/N013/seed_43/scalers.joblib",
+      "scalers": "models/convergence/ANN/N013/seed_42/scalers.joblib",
       "model_sha256": "29ef1f65435aee44d61d2e4300efacb6a6611869ef81476a72f4bf31b86da01c",
       "scalers_sha256": "b42bff41141275bc8ef38195f0ff0a8f9932a488d7e03f4f8401dae13cc8f012"
     },
@@ -16110,7 +16110,7 @@
         "r056"
       ],
       "model": "models/convergence/ANN/N013/seed_44/model.keras",
-      "scalers": "models/convergence/ANN/N013/seed_44/scalers.joblib",
+      "scalers": "models/convergence/ANN/N013/seed_42/scalers.joblib",
       "model_sha256": "26b1842d03ee9cdfc8431f563747da4d1525f096972d501bac53dbbedd166c07",
       "scalers_sha256": "b42bff41141275bc8ef38195f0ff0a8f9932a488d7e03f4f8401dae13cc8f012"
     },
@@ -16121,7 +16121,7 @@
         "r059"
       ],
       "model": "models/convergence/SVR/N013/seed_42/model.joblib",
-      "scalers": "models/convergence/SVR/N013/seed_42/scalers.joblib",
+      "scalers": "models/convergence/ANN/N013/seed_42/scalers.joblib",
       "model_sha256": "028bdf411be94cd044e4256db5573fab309a3525e98112887c1f8083d8a6bb94",
       "scalers_sha256": "b42bff41141275bc8ef38195f0ff0a8f9932a488d7e03f4f8401dae13cc8f012"
     },
@@ -16139,7 +16139,7 @@
         "r061"
       ],
       "model": "models/convergence/ANN/N025/seed_43/model.keras",
-      "scalers": "models/convergence/ANN/N025/seed_43/scalers.joblib",
+      "scalers": "models/convergence/ANN/N025/seed_42/scalers.joblib",
       "model_sha256": "86887b03064f286feab93bc9aa102581f1e2c5a198d5c9e5176a0899986821c9",
       "scalers_sha256": "9791a711162249cf73195b1e20fb6231cb058c5933e1fa71adb944fda29e4471"
     },
@@ -16148,7 +16148,7 @@
         "r062"
       ],
       "model": "models/convergence/ANN/N025/seed_44/model.keras",
-      "scalers": "models/convergence/ANN/N025/seed_44/scalers.joblib",
+      "scalers": "models/convergence/ANN/N025/seed_42/scalers.joblib",
       "model_sha256": "cd95a2b65e5cbf4c596fa2700f4db5dc7c452998312aacbacbc45be204281565",
       "scalers_sha256": "9791a711162249cf73195b1e20fb6231cb058c5933e1fa71adb944fda29e4471"
     },
@@ -16159,7 +16159,7 @@
         "r065"
       ],
       "model": "models/convergence/SVR/N025/seed_42/model.joblib",
-      "scalers": "models/convergence/SVR/N025/seed_42/scalers.joblib",
+      "scalers": "models/convergence/ANN/N025/seed_42/scalers.joblib",
       "model_sha256": "75bccce1cd9bd49555b4fe5684c127b2417d7c19b016dedf925d8f2d968182e6",
       "scalers_sha256": "9791a711162249cf73195b1e20fb6231cb058c5933e1fa71adb944fda29e4471"
     },
@@ -16177,7 +16177,7 @@
         "r067"
       ],
       "model": "models/convergence/ANN/N038/seed_43/model.keras",
-      "scalers": "models/convergence/ANN/N038/seed_43/scalers.joblib",
+      "scalers": "models/convergence/ANN/N038/seed_42/scalers.joblib",
       "model_sha256": "85d926bacdf3776ba36d557f9c67b862cb99982c609e50bf54b91eaf2ab492f1",
       "scalers_sha256": "c1b1891ab3c559d70b5dc8b039c49f768c2f1850baaea18aae3164dad7030368"
     },
@@ -16186,7 +16186,7 @@
         "r068"
       ],
       "model": "models/convergence/ANN/N038/seed_44/model.keras",
-      "scalers": "models/convergence/ANN/N038/seed_44/scalers.joblib",
+      "scalers": "models/convergence/ANN/N038/seed_42/scalers.joblib",
       "model_sha256": "a49f2775aaff987cce5057d2a97103efe7dac46753acd688c5524547e8646d97",
       "scalers_sha256": "c1b1891ab3c559d70b5dc8b039c49f768c2f1850baaea18aae3164dad7030368"
     },
@@ -16197,7 +16197,7 @@
         "r071"
       ],
       "model": "models/convergence/SVR/N038/seed_42/model.joblib",
-      "scalers": "models/convergence/SVR/N038/seed_42/scalers.joblib",
+      "scalers": "models/convergence/ANN/N038/seed_42/scalers.joblib",
       "model_sha256": "f44b1e9144ef3e3c9533024ae18fb447d0e1f1427b8a16aae3eacd32393eaa0e",
       "scalers_sha256": "c1b1891ab3c559d70b5dc8b039c49f768c2f1850baaea18aae3164dad7030368"
     },
@@ -16215,7 +16215,7 @@
         "r073"
       ],
       "model": "models/convergence/ANN/N050/seed_43/model.keras",
-      "scalers": "models/convergence/ANN/N050/seed_43/scalers.joblib",
+      "scalers": "models/convergence/ANN/N050/seed_42/scalers.joblib",
       "model_sha256": "a2fe068b0797c09bd38302947c285cebb340db8829c6dea78a915c6450aa8f35",
       "scalers_sha256": "7c7b2baf9ed3e8660b863990dc784133129818f9e855c77fdad8666ac822453b"
     },
@@ -16224,7 +16224,7 @@
         "r074"
       ],
       "model": "models/convergence/ANN/N050/seed_44/model.keras",
-      "scalers": "models/convergence/ANN/N050/seed_44/scalers.joblib",
+      "scalers": "models/convergence/ANN/N050/seed_42/scalers.joblib",
       "model_sha256": "b7067e074639589f2a971e78a6f5aa6bebba4550652c6063e324038f3796c04b",
       "scalers_sha256": "7c7b2baf9ed3e8660b863990dc784133129818f9e855c77fdad8666ac822453b"
     },
@@ -16235,7 +16235,7 @@
         "r077"
       ],
       "model": "models/convergence/SVR/N050/seed_42/model.joblib",
-      "scalers": "models/convergence/SVR/N050/seed_42/scalers.joblib",
+      "scalers": "models/convergence/ANN/N050/seed_42/scalers.joblib",
       "model_sha256": "2704c62b8833fac510857f3c8d02206d9e79c9bfd3333cf41d346b3f590b6eae",
       "scalers_sha256": "7c7b2baf9ed3e8660b863990dc784133129818f9e855c77fdad8666ac822453b"
     },
@@ -16253,7 +16253,7 @@
         "r079"
       ],
       "model": "models/convergence/ANN/N063/seed_43/model.keras",
-      "scalers": "models/convergence/ANN/N063/seed_43/scalers.joblib",
+      "scalers": "models/convergence/ANN/N063/seed_42/scalers.joblib",
       "model_sha256": "80684ccabffcc34da723d5788b260e0f3cd80ce34e71b49934159c993e9369f2",
       "scalers_sha256": "fc7d7b719f3f98a453be87376c16f2f9d83ad4b27623bc2b42993f7c7dffdf93"
     },
@@ -16262,7 +16262,7 @@
         "r080"
       ],
       "model": "models/convergence/ANN/N063/seed_44/model.keras",
-      "scalers": "models/convergence/ANN/N063/seed_44/scalers.joblib",
+      "scalers": "models/convergence/ANN/N063/seed_42/scalers.joblib",
       "model_sha256": "1d7a12218f6d3a40b4e7bd86829505248c8bd4631c80032165b231bd1e839022",
       "scalers_sha256": "fc7d7b719f3f98a453be87376c16f2f9d83ad4b27623bc2b42993f7c7dffdf93"
     },
@@ -16273,7 +16273,7 @@
         "r083"
       ],
       "model": "models/convergence/SVR/N063/seed_42/model.joblib",
-      "scalers": "models/convergence/SVR/N063/seed_42/scalers.joblib",
+      "scalers": "models/convergence/ANN/N063/seed_42/scalers.joblib",
       "model_sha256": "b60f328fcb13cc7fe39105bfee4c379a43203cd27a105d0186242ccce552bdac",
       "scalers_sha256": "fc7d7b719f3f98a453be87376c16f2f9d83ad4b27623bc2b42993f7c7dffdf93"
     },
@@ -16291,7 +16291,7 @@
         "r085"
       ],
       "model": "models/convergence/ANN/N076/seed_43/model.keras",
-      "scalers": "models/convergence/ANN/N076/seed_43/scalers.joblib",
+      "scalers": "models/convergence/ANN/N076/seed_42/scalers.joblib",
       "model_sha256": "21e6b956bae4cd14d68baf55afc7ce6b392f7101ab6fb7fc37db7276b43dc616",
       "scalers_sha256": "41da40fd9a94736adaa84b96cca6cfab1bc713d5a2b058a8a45e09babaeffc3a"
     },
@@ -16300,7 +16300,7 @@
         "r086"
       ],
       "model": "models/convergence/ANN/N076/seed_44/model.keras",
-      "scalers": "models/convergence/ANN/N076/seed_44/scalers.joblib",
+      "scalers": "models/convergence/ANN/N076/seed_42/scalers.joblib",
       "model_sha256": "27534bababaa26abe65635ba8e564609177217567b26cab88b31d1f9af265e42",
       "scalers_sha256": "41da40fd9a94736adaa84b96cca6cfab1bc713d5a2b058a8a45e09babaeffc3a"
     },
@@ -16311,7 +16311,7 @@
         "r089"
       ],
       "model": "models/convergence/SVR/N076/seed_42/model.joblib",
-      "scalers": "models/convergence/SVR/N076/seed_42/scalers.joblib",
+      "scalers": "models/convergence/ANN/N076/seed_42/scalers.joblib",
       "model_sha256": "a54b973d0b07379ea9f303f7a040ad5b02fde4dc1a55f92fc33e5d494054d253",
       "scalers_sha256": "41da40fd9a94736adaa84b96cca6cfab1bc713d5a2b058a8a45e09babaeffc3a"
     },
@@ -16329,7 +16329,7 @@
         "r091"
       ],
       "model": "models/convergence/ANN/N088/seed_43/model.keras",
-      "scalers": "models/convergence/ANN/N088/seed_43/scalers.joblib",
+      "scalers": "models/convergence/ANN/N088/seed_42/scalers.joblib",
       "model_sha256": "ff9d037bc938980db0766bf349ed822711ce38b48a79a2dc2928f07dea93b059",
       "scalers_sha256": "b63bcce39261eb83544fb9b14d5fbd8d46180690c722ef0fc225ed54ebf248ae"
     },
@@ -16338,7 +16338,7 @@
         "r092"
       ],
       "model": "models/convergence/ANN/N088/seed_44/model.keras",
-      "scalers": "models/convergence/ANN/N088/seed_44/scalers.joblib",
+      "scalers": "models/convergence/ANN/N088/seed_42/scalers.joblib",
       "model_sha256": "72db1862cf2d9850e1c2b5518048ed11d27091a4fa0b8197c4bdb0a71d4cc8a0",
       "scalers_sha256": "b63bcce39261eb83544fb9b14d5fbd8d46180690c722ef0fc225ed54ebf248ae"
     },
@@ -16349,7 +16349,7 @@
         "r095"
       ],
       "model": "models/convergence/SVR/N088/seed_42/model.joblib",
-      "scalers": "models/convergence/SVR/N088/seed_42/scalers.joblib",
+      "scalers": "models/convergence/ANN/N088/seed_42/scalers.joblib",
       "model_sha256": "1af7be2c5b8ea42a9d2ba31ba9ed8ef719bdcd836902c74f6881b64dbbcf4ea9",
       "scalers_sha256": "b63bcce39261eb83544fb9b14d5fbd8d46180690c722ef0fc225ed54ebf248ae"
     },
@@ -16367,7 +16367,7 @@
         "r097"
       ],
       "model": "models/convergence/ANN/N101/seed_43/model.keras",
-      "scalers": "models/convergence/ANN/N101/seed_43/scalers.joblib",
+      "scalers": "models/convergence/ANN/N101/seed_42/scalers.joblib",
       "model_sha256": "b33dd562bde1a2d16f95307aabb98a8024a524759ae2bdeaf24c80514cdffafe",
       "scalers_sha256": "a6dc45c5b67c70fd02a54e6673e5f14ff6ea078718e106b7e70778c7853161db"
     },
@@ -16376,7 +16376,7 @@
         "r098"
       ],
       "model": "models/convergence/ANN/N101/seed_44/model.keras",
-      "scalers": "models/convergence/ANN/N101/seed_44/scalers.joblib",
+      "scalers": "models/convergence/ANN/N101/seed_42/scalers.joblib",
       "model_sha256": "d738380face7386d2606c7f1acb34f4b548d131728ce85f58e1d2b1ee51c5630",
       "scalers_sha256": "a6dc45c5b67c70fd02a54e6673e5f14ff6ea078718e106b7e70778c7853161db"
     },
@@ -16387,7 +16387,7 @@
         "r101"
       ],
       "model": "models/convergence/SVR/N101/seed_42/model.joblib",
-      "scalers": "models/convergence/SVR/N101/seed_42/scalers.joblib",
+      "scalers": "models/convergence/ANN/N101/seed_42/scalers.joblib",
       "model_sha256": "31f92d5d7be9f7f7f828c70b491f60139c94f6cfdfaa45cfed4a10b6ef744e14",
       "scalers_sha256": "a6dc45c5b67c70fd02a54e6673e5f14ff6ea078718e106b7e70778c7853161db"
     },
@@ -16405,7 +16405,7 @@
         "r103"
       ],
       "model": "models/convergence/ANN/N113/seed_43/model.keras",
-      "scalers": "models/convergence/ANN/N113/seed_43/scalers.joblib",
+      "scalers": "models/convergence/ANN/N113/seed_42/scalers.joblib",
       "model_sha256": "a64e6dc379b488c9936adb53212ed67738918795bc952268ab5210b3d15e08ea",
       "scalers_sha256": "441aff0e104b131afe54dd5a81d257cff3ec4d3519a7de58afa6e376c4cbc72a"
     },
@@ -16414,7 +16414,7 @@
         "r104"
       ],
       "model": "models/convergence/ANN/N113/seed_44/model.keras",
-      "scalers": "models/convergence/ANN/N113/seed_44/scalers.joblib",
+      "scalers": "models/convergence/ANN/N113/seed_42/scalers.joblib",
       "model_sha256": "f99012f06a013583ff15ff9534ac76378596663bfd607b86a2d4cdf832ad30db",
       "scalers_sha256": "441aff0e104b131afe54dd5a81d257cff3ec4d3519a7de58afa6e376c4cbc72a"
     },
@@ -16425,7 +16425,7 @@
         "r107"
       ],
       "model": "models/convergence/SVR/N113/seed_42/model.joblib",
-      "scalers": "models/convergence/SVR/N113/seed_42/scalers.joblib",
+      "scalers": "models/convergence/ANN/N113/seed_42/scalers.joblib",
       "model_sha256": "238b1600506d014d7e081e2e4aa23e7d9a351fb76ab2810126575ed4a8a8f4fa",
       "scalers_sha256": "441aff0e104b131afe54dd5a81d257cff3ec4d3519a7de58afa6e376c4cbc72a"
     },
@@ -16434,7 +16434,7 @@
         "r108"
       ],
       "model": "models/convergence/ANN/N126/seed_43/model.keras",
-      "scalers": "models/convergence/ANN/N126/seed_43/scalers.joblib",
+      "scalers": "models/principal/ANN/LHS126/scalers.joblib",
       "model_sha256": "43575f575ca0bcb66302a15a3b9b6aa43219701725eec9ddb94a165416cf97b4",
       "scalers_sha256": "4604b72c59f79330b75d6f6a3867ad562523505ea1aa98c2831a2bc730b75515"
     },
@@ -16443,12 +16443,14 @@
         "r109"
       ],
       "model": "models/convergence/ANN/N126/seed_44/model.keras",
-      "scalers": "models/convergence/ANN/N126/seed_44/scalers.joblib",
+      "scalers": "models/principal/ANN/LHS126/scalers.joblib",
       "model_sha256": "5fdeda0aa45407e078a4b568d0733b8e2b064e6d988a398536d725dabb6fbc84",
       "scalers_sha256": "4604b72c59f79330b75d6f6a3867ad562523505ea1aa98c2831a2bc730b75515"
     }
   },
   "included_binary_files": 0,
-  "download_url": null,
-  "source_artifact_bytes_before_deduplication": 1354789732
+  "download_url": "https://github.com/mmaldonado40/circular-arch-roofs-ml-sampling/releases/download/models-v1.0/trained-models-v1.0.zip",
+  "source_artifact_bytes_before_deduplication": 1354789732,
+  "distribution_metadata": "models/release.json",
+  "unique_scaler_files": 18
 }

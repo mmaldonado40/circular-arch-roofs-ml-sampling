@@ -143,7 +143,7 @@ def main():
         'sampling_designs':len(sampling),'logical_model_fits':112,'unique_binary_pairs':92,
         'timing_records':len(timing),'manifest_files_checked':integrity_count,
         'training_performed':False,
-        'model_inference':'NOT_RUN_BINARIES_ABSENT','figure_rendering':'NOT_CHECKED_BY_THIS_COMMAND'}
+        'model_inference':'NOT_RUN_BY_THIS_COMMAND','figure_rendering':'NOT_CHECKED_BY_THIS_COMMAND'}
     if args.report:
         with args.report.open('x',encoding='utf-8') as f:json.dump(report,f,indent=2)
     if args.output_dir:

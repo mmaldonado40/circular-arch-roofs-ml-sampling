@@ -28,6 +28,8 @@ Thumbs.db
 new_runs/
 generated_figures/
 generated_tables/
+generated_predictions/
+trained-models-v*.zip
 
 # Trained model binaries (scientific prediction NPZ files remain included)
 *.keras

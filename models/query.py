@@ -26,7 +26,7 @@ def load(record,job):
     import numpy as np,joblib
     model_path=safe_path(record['model']);scales_path=safe_path(record['scalers'])
     if not model_path.is_file() or not scales_path.is_file():
-        raise FileNotFoundError('Trained binaries are not included in this draft. See models/README.md.')
+        raise FileNotFoundError('Download and extract the models-v1.0 Release asset. See models/README.md.')
     if digest(model_path)!=record['model_sha256'] or digest(scales_path)!=record['scalers_sha256']:
         raise ValueError('Model/scaler SHA256 mismatch: '+record['id'])
     scales=joblib.load(scales_path)

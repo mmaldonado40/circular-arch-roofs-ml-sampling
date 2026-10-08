@@ -1,0 +1,92 @@
+{
+  "schema": 1,
+  "tag": "models-v1.0",
+  "title": "Trained Models v1.0",
+  "release_url": "https://github.com/mmaldonado40/circular-arch-roofs-ml-sampling/releases/tag/models-v1.0",
+  "asset": {
+    "name": "trained-models-v1.0.zip",
+    "download_url": "https://github.com/mmaldonado40/circular-arch-roofs-ml-sampling/releases/download/models-v1.0/trained-models-v1.0.zip",
+    "bytes": 731877651,
+    "sha256": "d0e9fc158b5612c9573279dbe14440c352a4c8b112c1183ceaf5d159d7867ecd"
+  },
+  "license": "CC-BY-4.0",
+  "license_scope": "Original trained models and fitted input/output scalers; see LICENSE-DATA.md",
+  "logical_fits": 112,
+  "principal_selections": 54,
+  "convergence_selections": 60,
+  "distinct_model_scaler_pairs": 92,
+  "models": 92,
+  "scaler_files": 18,
+  "binary_files": 110,
+  "uncompressed_binary_bytes": 1329363464,
+  "deduplication": "Model/scaler paths are shared only when their SHA-256 hashes are identical. All logical parameters, seeds, fold/OOF records and hashes are retained.",
+  "artifact_manifest": "models/ARTIFACT_SHA256SUMS.txt",
+  "auxiliary_archive_files": [
+    "models/ARTIFACT_SHA256SUMS.txt",
+    "models/ARCHIVE_README.md"
+  ],
+  "validation": {
+    "date": "2026-10-08",
+    "platform": "Windows",
+    "python": "3.12.9",
+    "direct_dependencies": {
+      "numpy": "2.2.6",
+      "scipy": "1.16.1",
+      "scikit-learn": "1.7.1",
+      "joblib": "1.5.1",
+      "tensorflow": "2.20.0",
+      "keras": "3.11.3",
+      "threadpoolctl": "3.6.0",
+      "matplotlib": "3.10.6"
+    },
+    "saved_results": "PASS_ML",
+    "no_fit_plan": 112,
+    "exported_table_files": 8,
+    "exported_figure_panels": 23,
+    "regenerated_pixel_identical_panels": 19,
+    "extracted_binary_hashes": "PASS",
+    "logical_fit_coverage": 112,
+    "representative_inference": [
+      {
+        "id": "r003",
+        "configurations": 20,
+        "outputs_per_configuration": 315,
+        "max_abs_Cp_difference": 1.1433410662675669e-07
+      },
+      {
+        "id": "r009",
+        "configurations": 20,
+        "outputs_per_configuration": 315,
+        "max_abs_Cp_difference": 0.0
+      },
+      {
+        "id": "r018",
+        "configurations": 20,
+        "outputs_per_configuration": 315,
+        "max_abs_Cp_difference": 0.0
+      },
+      {
+        "id": "r027",
+        "configurations": 20,
+        "outputs_per_configuration": 315,
+        "max_abs_Cp_difference": 0.0
+      },
+      {
+        "id": "r036",
+        "configurations": 20,
+        "outputs_per_configuration": 315,
+        "max_abs_Cp_difference": 0.0
+      },
+      {
+        "id": "r045",
+        "configurations": 20,
+        "outputs_per_configuration": 315,
+        "max_abs_Cp_difference": 0.0
+      }
+    ],
+    "custom_input_inference": "PASS: two configurations",
+    "invalid_archive_rejected": true,
+    "training_performed": false,
+    "CFD_performed": false
+  }
+}

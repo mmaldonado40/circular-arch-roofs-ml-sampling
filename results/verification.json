@@ -168,10 +168,10 @@
   },
   "remaining_limits": [
     "Full refits were not executed.",
-    "Only Windows/Python 3.12.14 was tested.",
+    "The recorded portability check used Windows/Python 3.12.14; Linux/macOS was not tested.",
     "Historical LHS seeds and full tuning histories are not recoverable.",
     "F1-F4 original independent generators are unavailable.",
-    "Binary models are not included."
+    "Trained binaries are distributed separately in GitHub Release models-v1.0; no weights are tracked in Git."
   ],
   "concurrent_changes": {
     "files": [
@@ -189,11 +189,11 @@
     "original_research_datasets_results_figures": "CC BY 4.0",
     "excluded": [
       "Third-party materials",
-      "Manuscript",
-      "Separately deposited trained model binaries"
+      "Manuscript"
     ],
-    "confirmed_by": "User instruction, 2026-10-07",
-    "license_files_modified": false
+    "confirmed_by": "User instruction, 2026-10-08; model/scaler licensing added for models-v1.0",
+    "license_files_modified": true,
+    "original_trained_models_and_scalers": "CC BY 4.0"
   },
   "technical_closure": {
     "date": "2026-10-07",

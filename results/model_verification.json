@@ -1138,7 +1138,7 @@
     "outputs_per_configuration": 315,
     "exact_reference_predictions": true
   },
-  "evidence_scope": "Accepted source delivery; model hashes/parameters/scalers/test predictions verified there. Not rerun in this draft.",
+  "evidence_scope": "Recorded verification of the accepted source delivery: hashes, parameters, scalers and test predictions. Distribution validation is documented in models/release.json.",
   "binaries_included": false,
   "unique_binary_pairs_by_source_hashes": 92
 }
